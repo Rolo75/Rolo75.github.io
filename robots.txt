@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rolo75.github.io/sitemap.xml
+Sitemap: https://vivapane.com/sitemap.xml

@@ -6,19 +6,19 @@ Contact: aetherandroid75@gmail.com
 
 ## Apps
 
-- [Aether Tiles](https://rolo75.github.io/aether-tiles/): Aether Tiles is a free Android home screen (launcher) that replaces icons with a grid of live tiles: clock, calendar, battery, weather, music and notifications, with no ads and no tracking. Status: Closed testing on Google Play.
-- [Living Icons](https://rolo75.github.io/living-icons/): Living Icons Launcher is an Android home screen where your app icons are animated characters that react when a notification comes in. It works offline, with no ads and no analytics. Status: In development.
+- [Aether Tiles](https://vivapane.com/aether-tiles/): Aether Tiles is a free Android home screen (launcher) that replaces icons with a grid of live tiles: clock, calendar, battery, weather, music and notifications, with no ads and no tracking. Status: Closed testing on Google Play.
+- [Living Icons](https://vivapane.com/living-icons/): Living Icons Launcher is an Android home screen where your app icons are animated characters that react when a notification comes in. It works offline, with no ads and no analytics. Status: In development.
 
 ## Privacy
 
-- [Aether Tiles privacy policy (in Spanish)](https://rolo75.github.io/aether-tiles-privacy/)
-- [Living Icons privacy policy (in Spanish)](https://rolo75.github.io/es/living-icons/privacidad/)
+- [Aether Tiles privacy policy (in Spanish)](https://vivapane.com/aether-tiles-privacy/)
+- [Living Icons privacy policy (in Spanish)](https://vivapane.com/es/living-icons/privacidad/)
 
 ## Other language versions
 
-- English (en): https://rolo75.github.io/ · https://rolo75.github.io/llms-full.txt
-- Español (es): https://rolo75.github.io/es/ · https://rolo75.github.io/es/llms-full.txt
-- Deutsch (de): https://rolo75.github.io/de/ · https://rolo75.github.io/de/llms-full.txt
-- Français (fr): https://rolo75.github.io/fr/ · https://rolo75.github.io/fr/llms-full.txt
-- Italiano (it): https://rolo75.github.io/it/ · https://rolo75.github.io/it/llms-full.txt
-- Português (pt): https://rolo75.github.io/pt/ · https://rolo75.github.io/pt/llms-full.txt
+- English (en): https://vivapane.com/ · https://vivapane.com/llms-full.txt
+- Español (es): https://vivapane.com/es/ · https://vivapane.com/es/llms-full.txt
+- Deutsch (de): https://vivapane.com/de/ · https://vivapane.com/de/llms-full.txt
+- Français (fr): https://vivapane.com/fr/ · https://vivapane.com/fr/llms-full.txt
+- Italiano (it): https://vivapane.com/it/ · https://vivapane.com/it/llms-full.txt
+- Português (pt): https://vivapane.com/pt/ · https://vivapane.com/pt/llms-full.txt

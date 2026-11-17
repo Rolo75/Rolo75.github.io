@@ -4,7 +4,7 @@ Um estúdio independente de apps para Android. Criamos telas iniciais diferentes
 
 ## Aether Tiles
 
-URL: https://rolo75.github.io/pt/aether-tiles/
+URL: https://vivapane.com/pt/aether-tiles/
 Status: Teste fechado no Google Play
 Preço: Grátis, sem anúncios
 Requisitos: Android 10 ou superior
@@ -50,7 +50,7 @@ Ele está em teste fechado no Google Play. Escreva para a gente e adicionamos vo
 
 ## Living Icons
 
-URL: https://rolo75.github.io/pt/living-icons/
+URL: https://vivapane.com/pt/living-icons/
 Status: Em desenvolvimento
 Preço: Grátis
 Requisitos: Android 8 ou superior

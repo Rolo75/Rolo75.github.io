@@ -4,7 +4,7 @@ An independent studio making Android apps. We build home screens that feel diffe
 
 ## Aether Tiles
 
-URL: https://rolo75.github.io/aether-tiles/
+URL: https://vivapane.com/aether-tiles/
 Status: Closed testing on Google Play
 Price: Free, no ads
 Requirements: Android 10 or later
@@ -50,7 +50,7 @@ It's in closed testing on Google Play. Write to us and we'll add you to the test
 
 ## Living Icons
 
-URL: https://rolo75.github.io/living-icons/
+URL: https://vivapane.com/living-icons/
 Status: In development
 Price: Free
 Requirements: Android 8 or later

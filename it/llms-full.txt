@@ -4,7 +4,7 @@ Uno studio indipendente di app per Android. Creiamo schermate home diverse dal s
 
 ## Aether Tiles
 
-URL: https://rolo75.github.io/it/aether-tiles/
+URL: https://vivapane.com/it/aether-tiles/
 Stato: Test chiuso su Google Play
 Prezzo: Gratis, senza pubblicità
 Requisiti: Android 10 o successivo
@@ -50,7 +50,7 @@ Con un tocco dalle impostazioni di Aether Tiles, oppure in Impostazioni di Andro
 
 ## Living Icons
 
-URL: https://rolo75.github.io/it/living-icons/
+URL: https://vivapane.com/it/living-icons/
 Stato: In sviluppo
 Prezzo: Gratis
 Requisiti: Android 8 o successivo
