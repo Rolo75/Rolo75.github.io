@@ -1,0 +1,85 @@
+# Vivapane
+
+Uno studio indipendente di app per Android. Creiamo schermate home diverse dal solito: Aether Tiles, fatta di riquadri animati, e Living Icons, dove le icone sono piccoli personaggi. Niente pubblicità, niente tracciamento, e i tuoi dati restano sul telefono.
+
+## Aether Tiles
+
+URL: https://rolo75.github.io/it/aether-tiles/
+Stato: Test chiuso su Google Play
+Prezzo: Gratis, senza pubblicità
+Requisiti: Android 10 o successivo
+Versione 1.2.0
+
+Aether Tiles sostituisce la schermata home del tuo Android con una griglia di riquadri. Ogni riquadro mostra informazioni in tempo reale: l'ora con il quadrante che preferisci, il prossimo appuntamento, quanta batteria resta, il meteo della tua città o la canzone in riproduzione, con i tasti per metterla in pausa.
+I riquadri hanno un effetto vetro sopra lo sfondo e una sottile linea di luce che ne percorre lentamente i bordi. Quella luce ti avvisa anche: diventa verde mentre carichi, rossa con la batteria scarica e gira color ambra attorno all'app con messaggi non letti.
+Tutto viene salvato sul telefono. Niente server nostri, niente pubblicità, niente statistiche. Si collega a internet solo per ciò che attivi tu: il meteo della città scelta e i riquadri di notizie.
+
+### Funzioni
+
+- Modalità prestito: Presti il telefono a qualcuno e vede solo le app che scegli tu. Per uscire serve il tuo PIN.
+- Pannello notifiche: Scorri verso il basso sulla home: notifiche raggruppate per app, musica e impostazioni rapide.
+- Riquadri animati: Orologio con undici quadranti, calendario, batteria, meteo, musica, note e notizie.
+- Persone come riquadri: Fissa i tuoi preferiti: un tocco e il loro numero è pronto da chiamare.
+- Come piace a te: Quattro dimensioni, più colore, materiale, opacità, angoli e foto di sfondo per ogni riquadro.
+- Widget e cartelle: Metti i widget delle tue app dentro un riquadro e raggruppa le app in cartelle.
+- Modalità privacy: I riquadri mostrano quante notifiche hai, ma non chi ti scrive né cosa stai ascoltando.
+- Backup: Salva la tua schermata home in un file e ripristinala su un altro telefono.
+
+### Domande frequenti
+
+**Che cos'è Aether Tiles?**
+Una schermata home per Android che mostra le tue app come riquadri con informazioni in tempo reale (ora, appuntamenti, batteria, meteo, musica e notifiche) invece di icone fisse.
+
+**È gratis? Ha pubblicità?**
+È gratis, senza pubblicità e senza statistiche.
+
+**Raccoglie i miei dati?**
+No. Tutto viene salvato sul telefono. Si collega a internet solo per il meteo della città che scegli e per i riquadri di notizie che aggiungi.
+
+**Che cos'è la modalità prestito?**
+Un modo per prestare il telefono a un'altra persona: potrà aprire solo le app che scegli e per uscire serve il tuo PIN. Non è un parental control.
+
+**Quali autorizzazioni chiede?**
+Sono tutte facoltative: notifiche (contatori, luce e pannello), calendario (prossimo appuntamento) e accesso ai dati di utilizzo (solo per la modalità prestito). Senza di esse funziona come un normale launcher a riquadri.
+
+**Come torno alla mia schermata home di sempre?**
+Con un tocco dalle impostazioni di Aether Tiles, oppure in Impostazioni di Android, App predefinite.
+
+**Come posso provarla?**
+È in test chiuso su Google Play. Scrivici e ti aggiungiamo al gruppo dei tester.
+
+## Living Icons
+
+URL: https://rolo75.github.io/it/living-icons/
+Stato: In sviluppo
+Prezzo: Gratis
+Requisiti: Android 8 o successivo
+Versione 1.0 (in test)
+
+In Living Icons le icone non stanno ferme. Ogni app ha un corpo che rispecchia quello che fa (messaggi, musica, giochi, fotocamera…), con occhi e braccia, e porta la sua vera icona.
+Quando un'app riceve una notifica, il suo personaggio salta e saluta. Tornando alla home li vedi svegliarsi, e se li tocchi reagiscono. Una modalità risparmio evita che le animazioni consumino la batteria.
+L'app non ha l'autorizzazione per internet: non può inviare nulla fuori dal telefono. L'accesso alle notifiche è facoltativo e viene spiegato prima di essere richiesto.
+
+### Funzioni
+
+- Personaggi per categoria: Ogni app riceve un corpo in base al suo tipo, con sopra la sua vera icona.
+- Reagiscono alle notifiche: Saltano e salutano quando la loro app riceve una notifica.
+- Una schermata home completa: Pagine, barra in basso, elenco delle app, cartelle e modalità modifica.
+- Orizzontale: Le stesse pagine quando giri il telefono.
+- Senza internet: Nessuna autorizzazione di rete: tutto resta sul telefono.
+- Risparmio batteria: Animazioni complete o modalità risparmio, come preferisci.
+
+### Domande frequenti
+
+**Che cos'è Living Icons?**
+Una schermata home per Android in cui ogni icona è un personaggio animato che reagisce alle notifiche della sua app.
+
+**Quando esce?**
+La fase di design è quasi conclusa. Partirà con un test chiuso su Google Play; se vuoi provarla, scrivici.
+
+**Ha bisogno di internet o raccoglie dati?**
+No. L'app non ha l'autorizzazione per internet, né pubblicità, né statistiche.
+
+**Consuma molta batteria?**
+Ha una modalità risparmio che riduce le animazioni. Stiamo misurando i consumi su telefoni veri prima dell'uscita.
+

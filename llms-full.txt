@@ -1,0 +1,85 @@
+# Vivapane
+
+An independent studio making Android apps. We build home screens that feel different: Aether Tiles, made of live tiles, and Living Icons, where your icons are little characters. No ads, no tracking, and your data stays on your phone.
+
+## Aether Tiles
+
+URL: https://rolo75.github.io/aether-tiles/
+Status: Closed testing on Google Play
+Price: Free, no ads
+Requirements: Android 10 or later
+Version 1.2.0
+
+Aether Tiles replaces your Android home screen with a grid of tiles. Each tile shows live information: the time on the clock face you pick, your next appointment, how much battery is left, the weather in your city or the song that's playing, with buttons to pause it.
+The tiles have a glass finish over your wallpaper and a thin line of light that slowly travels around their edges. That light also tells you things: it turns green while charging, red when the battery is low, and spins amber around any app with unread messages.
+Everything is stored on your phone. There are no servers of our own, no ads and no analytics. It only goes online for what you turn on: the weather for the city you choose and news tiles.
+
+### Features
+
+- Lend mode: Hand your phone to someone and they only see the apps you choose. Getting out takes your PIN.
+- Notification panel: Swipe down on the home screen: notifications grouped by app, music and quick settings.
+- Live tiles: Clock with eleven faces, calendar, battery, weather, music, notes and news.
+- People as tiles: Pin your favourite people: one tap and their number is ready to call.
+- Make it yours: Four sizes, plus colour, material, opacity, corners and a background photo for each tile.
+- Widgets and folders: Put your apps' widgets inside a tile and group apps into folders.
+- Privacy mode: Tiles show how many notifications you have, but not who's writing or what you're listening to.
+- Backup: Save your home screen to a file and restore it on another phone.
+
+### Frequently asked questions
+
+**What is Aether Tiles?**
+An Android home screen that shows your apps as tiles with live information (time, appointments, battery, weather, music and notifications) instead of static icons.
+
+**Is it free? Does it have ads?**
+It's free, with no ads and no analytics.
+
+**Does it collect my data?**
+No. Everything is stored on the phone. It only goes online for the weather in the city you pick and for any news tiles you add.
+
+**What is lend mode?**
+A way to hand your phone to someone else: they can only open the apps you choose, and leaving it takes your PIN. It isn't parental control.
+
+**What permissions does it ask for?**
+All of them are optional: notifications (counters, light and panel), calendar (next appointment) and usage access (only for lend mode). Without them it works as a regular tile launcher.
+
+**How do I go back to my usual home screen?**
+With one tap from the Aether Tiles settings, or in Android Settings, Default apps.
+
+**How can I try it?**
+It's in closed testing on Google Play. Write to us and we'll add you to the testers group.
+
+## Living Icons
+
+URL: https://rolo75.github.io/living-icons/
+Status: In development
+Price: Free
+Requirements: Android 8 or later
+Version 1.0 (testing)
+
+In Living Icons, icons don't sit still. Each app gets a body that matches what it does (messaging, music, games, camera…), with eyes and arms, and it carries its real icon.
+When an app gets a notification, its character jumps and waves. Go back to the home screen and you'll see them wake up; tap them and they react. A battery saver mode keeps the animations from draining your phone.
+The app has no internet permission, so it can't send anything off your phone. Notification access is optional and explained before it's requested.
+
+### Features
+
+- Characters by category: Each app gets a body based on its type, with its real icon on top.
+- They react to notifications: They jump and wave when their app gets a notification.
+- A complete home screen: Pages, dock, app drawer, folders and edit mode.
+- Landscape: The same pages when you turn your phone sideways.
+- No internet: No network permission: everything stays on the phone.
+- Battery saver: Full animations or a saver mode, your choice.
+
+### Frequently asked questions
+
+**What is Living Icons?**
+An Android home screen where every icon is an animated character that reacts to its app's notifications.
+
+**When will it be out?**
+The design phase is almost finished. It will start as a closed test on Google Play; if you'd like to try it, write to us.
+
+**Does it need internet or collect data?**
+No. The app has no internet permission, no ads and no analytics.
+
+**Does it use a lot of battery?**
+It has a saver mode that tones down the animations. We're measuring it on real phones before release.
+

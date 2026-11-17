@@ -1,0 +1,85 @@
+# Vivapane
+
+Un studio indépendant d'applis Android. Nous créons des écrans d'accueil qui sortent de l'ordinaire : Aether Tiles, fait de tuiles dynamiques, et Living Icons, où vos icônes sont des petits personnages. Sans pub, sans pistage, et vos données restent sur votre téléphone.
+
+## Aether Tiles
+
+URL: https://rolo75.github.io/fr/aether-tiles/
+Statut: Test fermé sur Google Play
+Prix: Gratuit, sans pub
+Configuration requise: Android 10 ou plus récent
+Version 1.2.0
+
+Aether Tiles remplace l'écran d'accueil de votre Android par une grille de tuiles. Chaque tuile affiche des infos en direct : l'heure avec le cadran de votre choix, votre prochain rendez-vous, le niveau de batterie, la météo de votre ville ou le morceau en cours, avec des boutons pour le mettre en pause.
+Les tuiles ont un aspect verre posé sur votre fond d'écran, et un fin trait de lumière fait lentement le tour de leurs bords. Cette lumière sert aussi à vous prévenir : verte pendant la charge, rouge quand la batterie est faible, et ambrée autour d'une appli qui a des messages non lus.
+Tout est enregistré sur votre téléphone. Pas de serveurs à nous, pas de pub, pas de statistiques. L'appli ne se connecte à internet que pour ce que vous activez : la météo de la ville choisie et les tuiles d'actualité.
+
+### Fonctions
+
+- Mode prêt: Vous prêtez votre téléphone et la personne ne voit que les applis que vous choisissez. Pour en sortir, il faut votre code PIN.
+- Panneau de notifications: Glissez vers le bas sur l'accueil : notifications groupées par appli, musique et réglages rapides.
+- Tuiles dynamiques: Horloge à onze cadrans, agenda, batterie, météo, musique, notes et actualités.
+- Vos proches en tuiles: Épinglez vos favoris : un geste et leur numéro est prêt à être appelé.
+- À votre goût: Quatre tailles, plus couleur, matière, opacité, coins et photo de fond pour chaque tuile.
+- Widgets et dossiers: Placez les widgets de vos applis dans une tuile et regroupez vos applis en dossiers.
+- Mode confidentialité: Les tuiles indiquent combien de notifications vous avez, mais pas qui vous écrit ni ce que vous écoutez.
+- Sauvegarde: Enregistrez votre écran d'accueil dans un fichier et restaurez-le sur un autre téléphone.
+
+### Questions fréquentes
+
+**Qu'est-ce qu'Aether Tiles ?**
+Un écran d'accueil pour Android qui affiche vos applis sous forme de tuiles avec des infos en direct (heure, rendez-vous, batterie, météo, musique et notifications) au lieu d'icônes figées.
+
+**C'est gratuit ? Il y a de la pub ?**
+C'est gratuit, sans pub et sans statistiques.
+
+**L'appli collecte-t-elle mes données ?**
+Non. Tout est enregistré sur le téléphone. Elle ne se connecte à internet que pour la météo de la ville choisie et pour les tuiles d'actualité que vous ajoutez.
+
+**Qu'est-ce que le mode prêt ?**
+Une façon de prêter votre téléphone : l'autre personne ne peut ouvrir que les applis que vous choisissez, et il faut votre code PIN pour en sortir. Ce n'est pas un contrôle parental.
+
+**Quelles autorisations demande-t-elle ?**
+Toutes sont facultatives : notifications (compteurs, lumière et panneau), agenda (prochain rendez-vous) et accès aux données d'utilisation (uniquement pour le mode prêt). Sans elles, elle fonctionne comme un launcher à tuiles classique.
+
+**Comment revenir à mon écran d'accueil habituel ?**
+En un geste depuis les réglages d'Aether Tiles, ou dans les Paramètres d'Android, Applications par défaut.
+
+**Comment l'essayer ?**
+Elle est en test fermé sur Google Play. Écrivez-nous et nous vous ajouterons au groupe de testeurs.
+
+## Living Icons
+
+URL: https://rolo75.github.io/fr/living-icons/
+Statut: En développement
+Prix: Gratuit
+Configuration requise: Android 8 ou plus récent
+Version 1.0 (en test)
+
+Dans Living Icons, les icônes ne restent pas immobiles. Chaque appli reçoit un corps adapté à ce qu'elle fait (messagerie, musique, jeux, appareil photo…), avec des yeux et des bras, et porte sa vraie icône.
+Quand une appli reçoit une notification, son personnage saute et fait signe. En revenant à l'accueil, vous les voyez se réveiller, et ils réagissent quand vous les touchez. Un mode économie évite que les animations vident la batterie.
+L'appli n'a pas d'autorisation internet : elle ne peut rien envoyer hors de votre téléphone. L'accès aux notifications est facultatif et expliqué avant d'être demandé.
+
+### Fonctions
+
+- Personnages par catégorie: Chaque appli reçoit un corps selon son type, avec sa vraie icône dessus.
+- Ils réagissent aux notifications: Ils sautent et font signe quand leur appli reçoit une notification.
+- Un écran d'accueil complet: Pages, barre du bas, tiroir d'applis, dossiers et mode édition.
+- Paysage: Les mêmes pages quand vous tournez le téléphone.
+- Sans internet: Aucune autorisation réseau : tout reste sur le téléphone.
+- Économie de batterie: Animations complètes ou mode économie, comme vous préférez.
+
+### Questions fréquentes
+
+**Qu'est-ce que Living Icons ?**
+Un écran d'accueil pour Android où chaque icône est un personnage animé qui réagit aux notifications de son appli.
+
+**Quand sort-il ?**
+La phase de design touche à sa fin. Il commencera par un test fermé sur Google Play ; si vous voulez l'essayer, écrivez-nous.
+
+**A-t-il besoin d'internet ou collecte-t-il des données ?**
+Non. L'appli n'a pas d'autorisation internet, ni pub, ni statistiques.
+
+**Consomme-t-il beaucoup de batterie ?**
+Il a un mode économie qui réduit les animations. Nous mesurons sa consommation sur de vrais téléphones avant la sortie.
+

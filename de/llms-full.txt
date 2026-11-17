@@ -1,0 +1,85 @@
+# Vivapane
+
+Ein unabhängiges Studio für Android-Apps. Wir bauen Startbildschirme, die anders sind: Aether Tiles mit Live-Kacheln und Living Icons, bei dem deine Icons kleine Figuren sind. Keine Werbung, kein Tracking, und deine Daten bleiben auf deinem Handy.
+
+## Aether Tiles
+
+URL: https://rolo75.github.io/de/aether-tiles/
+Status: Geschlossener Test bei Google Play
+Preis: Kostenlos, ohne Werbung
+Voraussetzungen: Android 10 oder neuer
+Version 1.2.0
+
+Aether Tiles ersetzt den Startbildschirm deines Android-Handys durch ein Raster aus Kacheln. Jede Kachel zeigt Live-Informationen: die Uhrzeit mit dem Zifferblatt deiner Wahl, deinen nächsten Termin, den Akkustand, das Wetter in deiner Stadt oder den Song, der gerade läuft, mit Tasten zum Pausieren.
+Die Kacheln liegen wie Glas über deinem Hintergrund, und ein feiner Lichtstreifen wandert langsam um ihre Ränder. Das Licht hat auch eine Bedeutung: Beim Laden wird es grün, bei schwachem Akku rot, und um Apps mit ungelesenen Nachrichten kreist es bernsteinfarben.
+Alles wird auf deinem Handy gespeichert. Es gibt keine eigenen Server, keine Werbung und keine Analyse. Ins Internet geht die App nur für das, was du einschaltest: das Wetter für die gewählte Stadt und Nachrichten-Kacheln.
+
+### Funktionen
+
+- Leihmodus: Du gibst jemandem dein Handy, und die Person sieht nur die Apps, die du auswählst. Zum Beenden braucht es deine PIN.
+- Benachrichtigungsfeld: Auf dem Startbildschirm nach unten wischen: Benachrichtigungen nach App gruppiert, Musik und Schnelleinstellungen.
+- Live-Kacheln: Uhr mit elf Zifferblättern, Kalender, Akku, Wetter, Musik, Notizen und Nachrichten.
+- Personen als Kacheln: Pinne deine Lieblingsmenschen an: ein Tipp, und ihre Nummer ist bereit zum Anrufen.
+- Ganz nach deinem Geschmack: Vier Größen, dazu Farbe, Material, Deckkraft, Ecken und ein Hintergrundfoto für jede Kachel.
+- Widgets und Ordner: Pack Widgets deiner Apps in eine Kachel und gruppiere Apps in Ordnern.
+- Privatsphäremodus: Die Kacheln zeigen, wie viele Benachrichtigungen du hast, aber nicht, wer schreibt oder was du hörst.
+- Sicherung: Speichere deinen Startbildschirm in einer Datei und stelle ihn auf einem anderen Handy wieder her.
+
+### Häufige Fragen
+
+**Was ist Aether Tiles?**
+Ein Android-Startbildschirm, der deine Apps als Kacheln mit Live-Informationen zeigt (Uhrzeit, Termine, Akku, Wetter, Musik und Benachrichtigungen) statt als starre Icons.
+
+**Ist die App kostenlos? Gibt es Werbung?**
+Sie ist kostenlos, ohne Werbung und ohne Analyse.
+
+**Sammelt die App meine Daten?**
+Nein. Alles wird auf dem Handy gespeichert. Ins Internet geht sie nur für das Wetter in der Stadt, die du wählst, und für Nachrichten-Kacheln, die du hinzufügst.
+
+**Was ist der Leihmodus?**
+Eine Möglichkeit, jemand anderem dein Handy zu geben: Die Person kann nur die Apps öffnen, die du auswählst, und zum Beenden braucht es deine PIN. Es ist keine Kindersicherung.
+
+**Welche Berechtigungen braucht die App?**
+Alle sind optional: Benachrichtigungen (Zähler, Licht und Feld), Kalender (nächster Termin) und Nutzungszugriff (nur für den Leihmodus). Ohne sie funktioniert sie als normaler Kachel-Launcher.
+
+**Wie komme ich zu meinem gewohnten Startbildschirm zurück?**
+Mit einem Tipp in den Einstellungen von Aether Tiles oder in den Android-Einstellungen unter Standard-Apps.
+
+**Wie kann ich die App testen?**
+Sie ist im geschlossenen Test bei Google Play. Schreib uns, und wir nehmen dich in die Testgruppe auf.
+
+## Living Icons
+
+URL: https://rolo75.github.io/de/living-icons/
+Status: In Entwicklung
+Preis: Kostenlos
+Voraussetzungen: Android 8 oder neuer
+Version 1.0 (im Test)
+
+Bei Living Icons stehen die Icons nicht still. Jede App bekommt einen Körper, der zu ihr passt (Messenger, Musik, Spiele, Kamera …), mit Augen und Armen, und trägt ihr echtes Icon.
+Bekommt eine App eine Benachrichtigung, springt ihre Figur und winkt. Wenn du zum Startbildschirm zurückkehrst, wachen sie auf, und wenn du sie antippst, reagieren sie. Ein Sparmodus sorgt dafür, dass die Animationen den Akku schonen.
+Die App hat keine Internetberechtigung und kann deshalb nichts von deinem Handy senden. Der Zugriff auf Benachrichtigungen ist optional und wird erklärt, bevor er angefragt wird.
+
+### Funktionen
+
+- Figuren nach Kategorie: Jede App bekommt einen Körper passend zu ihrer Art, mit ihrem echten Icon obendrauf.
+- Sie reagieren auf Benachrichtigungen: Sie springen und winken, wenn ihre App eine Benachrichtigung bekommt.
+- Ein vollständiger Startbildschirm: Seiten, Dock, App-Übersicht, Ordner und Bearbeitungsmodus.
+- Querformat: Dieselben Seiten, wenn du das Handy drehst.
+- Ohne Internet: Keine Netzwerkberechtigung: Alles bleibt auf dem Handy.
+- Akkusparen: Volle Animationen oder Sparmodus, ganz wie du willst.
+
+### Häufige Fragen
+
+**Was ist Living Icons?**
+Ein Android-Startbildschirm, auf dem jedes Icon eine animierte Figur ist, die auf die Benachrichtigungen ihrer App reagiert.
+
+**Wann erscheint die App?**
+Die Designphase ist fast abgeschlossen. Zuerst startet ein geschlossener Test bei Google Play. Wenn du mitmachen möchtest, schreib uns.
+
+**Braucht sie Internet oder sammelt sie Daten?**
+Nein. Die App hat keine Internetberechtigung, keine Werbung und keine Analyse.
+
+**Verbraucht sie viel Akku?**
+Es gibt einen Sparmodus, der die Animationen reduziert. Wir messen den Verbrauch vor dem Start auf echten Handys.
+

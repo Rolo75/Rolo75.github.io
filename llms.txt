@@ -1,0 +1,24 @@
+# Vivapane
+
+> An independent studio making Android apps. We build home screens that feel different: Aether Tiles, made of live tiles, and Living Icons, where your icons are little characters. No ads, no tracking, and your data stays on your phone.
+
+Contact: aetherandroid75@gmail.com
+
+## Apps
+
+- [Aether Tiles](https://rolo75.github.io/aether-tiles/): Aether Tiles is a free Android home screen (launcher) that replaces icons with a grid of live tiles: clock, calendar, battery, weather, music and notifications, with no ads and no tracking. Status: Closed testing on Google Play.
+- [Living Icons](https://rolo75.github.io/living-icons/): Living Icons Launcher is an Android home screen where your app icons are animated characters that react when a notification comes in. It works offline, with no ads and no analytics. Status: In development.
+
+## Privacy
+
+- [Aether Tiles privacy policy (in Spanish)](https://rolo75.github.io/aether-tiles-privacy/)
+- [Living Icons privacy policy (in Spanish)](https://rolo75.github.io/es/living-icons/privacidad/)
+
+## Other language versions
+
+- English (en): https://rolo75.github.io/ · https://rolo75.github.io/llms-full.txt
+- Español (es): https://rolo75.github.io/es/ · https://rolo75.github.io/es/llms-full.txt
+- Deutsch (de): https://rolo75.github.io/de/ · https://rolo75.github.io/de/llms-full.txt
+- Français (fr): https://rolo75.github.io/fr/ · https://rolo75.github.io/fr/llms-full.txt
+- Italiano (it): https://rolo75.github.io/it/ · https://rolo75.github.io/it/llms-full.txt
+- Português (pt): https://rolo75.github.io/pt/ · https://rolo75.github.io/pt/llms-full.txt

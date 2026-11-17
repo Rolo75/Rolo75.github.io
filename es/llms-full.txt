@@ -1,0 +1,85 @@
+# Vivapane
+
+Estudio independiente de apps para Android. Hacemos pantallas de inicio distintas: Aether Tiles, de mosaicos vivos, y Living Icons, donde los iconos son personajes. Sin anuncios, sin rastreo y con tus datos en tu móvil.
+
+## Aether Tiles
+
+URL: https://rolo75.github.io/es/aether-tiles/
+Estado: Prueba cerrada en Google Play
+Precio: Gratis, sin anuncios
+Requisitos: Android 10 o superior
+Versión 1.2.0
+
+Aether Tiles sustituye la pantalla de inicio de tu Android por una cuadrícula de mosaicos. Cada mosaico enseña información en directo: la hora con la esfera que elijas, tu próxima cita, cuánta batería queda, el tiempo de tu ciudad o la canción que suena, con botones para pausarla.
+Los mosaicos tienen un acabado de cristal sobre tu fondo y un borde de luz que los recorre despacio. Esa luz también avisa: se pone verde mientras cargas, roja con poca batería y gira en ámbar sobre la app que tiene mensajes sin leer.
+Todo se guarda en tu móvil. No hay servidores propios, ni publicidad, ni analíticas. Solo se conecta a internet para lo que tú activas: el tiempo de la ciudad que eliges y los mosaicos de noticias.
+
+### Funciones
+
+- Modo prestar: Dejas el móvil a alguien y solo ve las apps que tú elijas. Para salir hace falta tu PIN.
+- Panel de avisos: Desliza hacia abajo en Inicio: notificaciones agrupadas por app, música y ajustes rápidos.
+- Mosaicos vivos: Reloj con once esferas, calendario, batería, tiempo, música, notas y noticias.
+- Personas como mosaicos: Fija a tus favoritos: un toque y tienes su número listo para llamar.
+- A tu gusto: Cuatro tamaños, color, material, opacidad, esquinas y foto de fondo por mosaico.
+- Widgets y carpetas: Mete widgets de tus apps dentro de un mosaico y agrupa apps en carpetas.
+- Modo privacidad: Los mosaicos muestran cuántos avisos tienes, pero no quién te escribe ni qué escuchas.
+- Copia de seguridad: Guarda tu pantalla de inicio en un archivo y restáurala en otro móvil.
+
+### Preguntas frecuentes
+
+**¿Qué es Aether Tiles?**
+Una pantalla de inicio para Android que muestra tus apps como mosaicos con información en directo (hora, citas, batería, tiempo, música y avisos) en lugar de iconos fijos.
+
+**¿Es gratis? ¿Tiene anuncios?**
+Es gratis y no tiene anuncios ni analíticas.
+
+**¿Recoge mis datos?**
+No. Todo se guarda en el móvil. Solo se conecta a internet para el tiempo de la ciudad que elijas y los mosaicos de noticias que añadas.
+
+**¿Qué es el modo prestar?**
+Una forma de dejar el móvil a otra persona: solo podrá abrir las apps que elijas y para salir hace falta tu PIN. No es un control parental.
+
+**¿Qué permisos pide?**
+Todos son opcionales: notificaciones (contadores, luz y panel), calendario (próxima cita) y acceso a uso (solo para el modo prestar). Sin ellos funciona como un launcher de mosaicos normal.
+
+**¿Cómo vuelvo a mi pantalla de inicio de siempre?**
+Desde los ajustes de Aether Tiles, con un toque, o en Ajustes de Android, Apps predeterminadas.
+
+**¿Cómo puedo probarla?**
+Está en prueba cerrada en Google Play. Escríbenos y te añadimos al grupo de testers.
+
+## Living Icons
+
+URL: https://rolo75.github.io/es/living-icons/
+Estado: En desarrollo
+Precio: Gratis
+Requisitos: Android 8 o superior
+Versión 1.0 (en pruebas)
+
+En Living Icons los iconos no están quietos. Cada app tiene un cuerpo según lo que hace (mensajería, música, juegos, cámara…), con ojos y brazos, y lleva encima su icono real.
+Cuando una app recibe un aviso, su personaje salta y saluda. Al volver a Inicio los ves despertarse, y si los tocas reaccionan. Hay un modo de ahorro para que las animaciones no gasten batería.
+La app no tiene permiso de internet: no puede enviar nada fuera del móvil. El acceso a las notificaciones es opcional y se explica antes de pedirlo.
+
+### Funciones
+
+- Personajes por categoría: Cada app recibe un cuerpo según su tipo, con su icono real encima.
+- Reaccionan a tus avisos: Saltan y saludan cuando su app recibe una notificación.
+- Pantalla de inicio completa: Páginas, barra inferior, cajón de apps, carpetas y modo edición.
+- Horizontal: Las mismas páginas al girar el móvil.
+- Sin internet: No tiene permiso de red: todo se queda en el móvil.
+- Ahorro de batería: Animaciones completas o modo ahorro, como prefieras.
+
+### Preguntas frecuentes
+
+**¿Qué es Living Icons?**
+Una pantalla de inicio para Android en la que cada icono es un personaje animado que reacciona a los avisos de su app.
+
+**¿Cuándo sale?**
+Está terminando la fase de diseño. Primero saldrá en prueba cerrada en Google Play; si quieres probarla, escríbenos.
+
+**¿Necesita internet o recoge datos?**
+No. La app no tiene permiso de internet, ni anuncios, ni analíticas.
+
+**¿Gasta mucha batería?**
+Tiene un modo de ahorro que reduce las animaciones. Lo estamos midiendo en móviles reales antes de publicarla.
+

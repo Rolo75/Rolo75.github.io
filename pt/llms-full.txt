@@ -1,0 +1,85 @@
+# Vivapane
+
+Um estúdio independente de apps para Android. Criamos telas iniciais diferentes: Aether Tiles, feita de blocos ao vivo, e Living Icons, em que os ícones são personagens. Sem anúncios, sem rastreamento e com seus dados no seu celular.
+
+## Aether Tiles
+
+URL: https://rolo75.github.io/pt/aether-tiles/
+Status: Teste fechado no Google Play
+Preço: Grátis, sem anúncios
+Requisitos: Android 10 ou superior
+Versão 1.2.0
+
+O Aether Tiles substitui a tela inicial do seu Android por uma grade de blocos. Cada bloco mostra informações ao vivo: a hora com o mostrador que você escolher, seu próximo compromisso, quanto resta de bateria, o clima da sua cidade ou a música que está tocando, com botões para pausar.
+Os blocos têm um acabamento de vidro sobre o seu papel de parede e uma linha fina de luz que percorre devagar as bordas. Essa luz também avisa: fica verde enquanto carrega, vermelha com pouca bateria e gira em âmbar no app que tem mensagens não lidas.
+Tudo fica salvo no seu celular. Não há servidores próprios, nem anúncios, nem análises. O app só se conecta à internet para o que você ativar: o clima da cidade escolhida e os blocos de notícias.
+
+### Recursos
+
+- Modo empréstimo: Você empresta o celular e a pessoa só vê os apps que você escolher. Para sair, é preciso o seu PIN.
+- Painel de notificações: Deslize para baixo na tela inicial: notificações agrupadas por app, música e configurações rápidas.
+- Blocos ao vivo: Relógio com onze mostradores, agenda, bateria, clima, música, notas e notícias.
+- Pessoas como blocos: Fixe seus favoritos: um toque e o número já está pronto para ligar.
+- Do seu jeito: Quatro tamanhos, além de cor, material, opacidade, cantos e foto de fundo em cada bloco.
+- Widgets e pastas: Coloque widgets dos seus apps dentro de um bloco e agrupe apps em pastas.
+- Modo privacidade: Os blocos mostram quantas notificações você tem, mas não quem escreveu nem o que você está ouvindo.
+- Backup: Salve sua tela inicial em um arquivo e restaure em outro celular.
+
+### Perguntas frequentes
+
+**O que é o Aether Tiles?**
+Uma tela inicial para Android que mostra seus apps como blocos com informações ao vivo (hora, compromissos, bateria, clima, música e notificações) em vez de ícones parados.
+
+**É grátis? Tem anúncios?**
+É grátis, sem anúncios e sem análises.
+
+**Ele coleta meus dados?**
+Não. Tudo fica salvo no celular. Ele só se conecta à internet para o clima da cidade que você escolher e para os blocos de notícias que você adicionar.
+
+**O que é o modo empréstimo?**
+Uma forma de emprestar o celular a outra pessoa: ela só consegue abrir os apps que você escolher, e para sair é preciso o seu PIN. Não é controle parental.
+
+**Quais permissões ele pede?**
+Todas são opcionais: notificações (contadores, luz e painel), agenda (próximo compromisso) e acesso ao uso (só para o modo empréstimo). Sem elas, funciona como um launcher de blocos comum.
+
+**Como volto para a minha tela inicial de sempre?**
+Com um toque nas configurações do Aether Tiles, ou em Configurações do Android, Apps padrão.
+
+**Como posso testar?**
+Ele está em teste fechado no Google Play. Escreva para a gente e adicionamos você ao grupo de testadores.
+
+## Living Icons
+
+URL: https://rolo75.github.io/pt/living-icons/
+Status: Em desenvolvimento
+Preço: Grátis
+Requisitos: Android 8 ou superior
+Versão 1.0 (em teste)
+
+No Living Icons, os ícones não ficam parados. Cada app ganha um corpo de acordo com o que faz (mensagens, música, jogos, câmera…), com olhos e braços, e carrega o seu ícone real.
+Quando um app recebe uma notificação, o personagem pula e acena. Ao voltar para a tela inicial, você os vê acordar, e eles reagem quando você toca neles. Um modo de economia evita que as animações gastem a bateria.
+O app não tem permissão de internet: não consegue enviar nada para fora do celular. O acesso às notificações é opcional e explicado antes de ser pedido.
+
+### Recursos
+
+- Personagens por categoria: Cada app ganha um corpo de acordo com o tipo, com o ícone real por cima.
+- Reagem às notificações: Pulam e acenam quando o app deles recebe uma notificação.
+- Uma tela inicial completa: Páginas, barra inferior, gaveta de apps, pastas e modo de edição.
+- Horizontal: As mesmas páginas quando você gira o celular.
+- Sem internet: Sem permissão de rede: tudo fica no celular.
+- Economia de bateria: Animações completas ou modo de economia, como preferir.
+
+### Perguntas frequentes
+
+**O que é o Living Icons?**
+Uma tela inicial para Android em que cada ícone é um personagem animado que reage às notificações do seu app.
+
+**Quando vai sair?**
+A fase de design está quase no fim. Primeiro ele sai em teste fechado no Google Play; se quiser testar, escreva para a gente.
+
+**Precisa de internet ou coleta dados?**
+Não. O app não tem permissão de internet, nem anúncios, nem análises.
+
+**Gasta muita bateria?**
+Tem um modo de economia que reduz as animações. Estamos medindo o consumo em celulares reais antes do lançamento.
+
