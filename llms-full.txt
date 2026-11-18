@@ -8,7 +8,7 @@ URL: https://vivapane.com/aether-tiles/
 Status: Closed testing on Google Play
 Price: Free, no ads
 Requirements: Android 10 or later
-Version 1.2.0
+Version 1.3.0
 
 Aether Tiles replaces your Android home screen with a grid of tiles. Each tile shows live information: the time on the clock face you pick, your next appointment, how much battery is left, the weather in your city or the song that's playing, with buttons to pause it.
 The tiles have a glass finish over your wallpaper and a thin line of light that slowly travels around their edges. That light also tells you things: it turns green while charging, red when the battery is low, and spins amber around any app with unread messages.

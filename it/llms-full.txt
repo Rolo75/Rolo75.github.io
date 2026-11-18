@@ -8,7 +8,7 @@ URL: https://vivapane.com/it/aether-tiles/
 Stato: Test chiuso su Google Play
 Prezzo: Gratis, senza pubblicità
 Requisiti: Android 10 o successivo
-Versione 1.2.0
+Versione 1.3.0
 
 Aether Tiles sostituisce la schermata home del tuo Android con una griglia di riquadri. Ogni riquadro mostra informazioni in tempo reale: l'ora con il quadrante che preferisci, il prossimo appuntamento, quanta batteria resta, il meteo della tua città o la canzone in riproduzione, con i tasti per metterla in pausa.
 I riquadri hanno un effetto vetro sopra lo sfondo e una sottile linea di luce che ne percorre lentamente i bordi. Quella luce ti avvisa anche: diventa verde mentre carichi, rossa con la batteria scarica e gira color ambra attorno all'app con messaggi non letti.
