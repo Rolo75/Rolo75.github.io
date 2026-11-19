@@ -87,3 +87,6 @@ Nur auf Handys mit Gemini Nano (zum Beispiel Galaxy S25 oder Pixel 10). Sonst fu
 **Welche Sprache sprechen die Figuren?**
 Ihre Sätze sind vorerst auf Spanisch; weitere Sprachen folgen.
 
+**Und wenn die App abstürzt?**
+Wenn Hopsie zweimal hintereinander abstürzt, startet sie im abgesicherten Modus: Sie kehrt zu deinem letzten funktionierenden Startbildschirm zurück, ohne Animationen, und mit einem Tipp bist du wieder im normalen Modus.
+

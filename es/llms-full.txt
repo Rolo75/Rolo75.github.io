@@ -87,3 +87,6 @@ Solo en móviles con Gemini Nano (por ejemplo, Galaxy S25 o Pixel 10). En el res
 **¿Gasta mucha batería?**
 En reposo las animaciones van a pocos fotogramas por segundo y se paran del todo con la pantalla apagada o mientras usas otra app.
 
+**¿Y si la app falla?**
+Si Hopsie se cierra dos veces seguidas, arranca en modo seguro: vuelve a tu última pantalla de inicio que funcionaba, sin animaciones, y vuelves al modo normal con un toque.
+

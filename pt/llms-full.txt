@@ -87,3 +87,6 @@ Só nos telemóveis com Gemini Nano (por exemplo Galaxy S25 ou Pixel 10). Nos ou
 **Em que língua falam as personagens?**
 Por agora em espanhol; outras línguas estão a caminho.
 
+**E se a app falhar?**
+Se o Hopsie fechar duas vezes seguidas, arranca em modo de segurança: volta ao último ecrã inicial que funcionava, sem animações, e com um toque voltas ao modo normal.
+

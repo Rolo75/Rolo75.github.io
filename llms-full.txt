@@ -87,3 +87,6 @@ Only on phones with Gemini Nano (for example Galaxy S25 or Pixel 10). Elsewhere 
 **What languages do the characters speak?**
 For now their lines are in Spanish; more languages are on the way.
 
+**What if the app crashes?**
+If Hopsie closes twice in a row, it starts in safe mode: it goes back to your last home screen that worked, without animations, and one tap takes you back to normal mode.
+

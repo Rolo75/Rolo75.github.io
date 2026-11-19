@@ -87,3 +87,6 @@ Seulement sur les téléphones avec Gemini Nano (par exemple Galaxy S25 ou Pixel
 **Dans quelle langue parlent les personnages ?**
 Pour l'instant en espagnol ; d'autres langues arrivent.
 
+**Et si l'appli plante ?**
+Si Hopsie se ferme deux fois de suite, elle démarre en mode sans échec : elle revient à ton dernier écran d'accueil qui fonctionnait, sans animations, et un toucher suffit pour revenir au mode normal.
+
