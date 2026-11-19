@@ -1,6 +1,6 @@
 # Vivapane
 
-Ein unabhängiges Studio für Android-Apps. Wir bauen Startbildschirme, die anders sind: Aether Tiles mit Live-Kacheln und Living Icons, bei dem deine Icons kleine Figuren sind. Keine Werbung, kein Tracking, und deine Daten bleiben auf deinem Handy.
+Ein unabhängiges Studio für Android-Apps. Wir bauen Startbildschirme, die anders sind: Aether Tiles mit Live-Kacheln und Hopsie, bei dem deine Icons kleine Figuren sind. Keine Werbung, kein Tracking, und deine Daten bleiben auf deinem Handy.
 
 ## Aether Tiles
 
@@ -48,38 +48,42 @@ Mit einem Tipp in den Einstellungen von Aether Tiles oder in den Android-Einstel
 **Wie kann ich die App testen?**
 Sie ist im geschlossenen Test bei Google Play. Schreib uns, und wir nehmen dich in die Testgruppe auf.
 
-## Living Icons
+## Hopsie
 
-URL: https://vivapane.com/de/living-icons/
-Status: In Entwicklung
-Preis: Kostenlos
+URL: https://vivapane.com/de/hopsie/
+Status: Bald bei Google Play
+Preis: 3,99 € (einmalig, kein Abo)
 Voraussetzungen: Android 8 oder neuer
 Version 1.0 (im Test)
 
-Bei Living Icons stehen die Icons nicht still. Jede App bekommt einen Körper, der zu ihr passt (Messenger, Musik, Spiele, Kamera …), mit Augen und Armen, und trägt ihr echtes Icon.
-Bekommt eine App eine Benachrichtigung, springt ihre Figur und winkt. Wenn du zum Startbildschirm zurückkehrst, wachen sie auf, und wenn du sie antippst, reagieren sie. Ein Sparmodus sorgt dafür, dass die Animationen den Akku schonen.
-Die App hat keine Internetberechtigung und kann deshalb nichts von deinem Handy senden. Der Zugriff auf Benachrichtigungen ist optional und wird erklärt, bevor er angefragt wird.
+Bei Hopsie bleiben deine Apps nicht still. Jede bekommt einen Körper, der zu ihr passt, mit Augen, Armen mit Handschuhen und ihrem echten Symbol auf dem Bauch.
+Kommt eine Nachricht, hüpft die Figur hoch und sagt dir, wer geschrieben hat. Ignorierst du sie, wird sie hartnäckig, verschränkt irgendwann die Arme und setzt sich resigniert hin, bis du die App öffnest. Nachts schlafen sie, und wer eine Nachricht hat, wacht auf, um dich zu erinnern.
+Sie plaudern in ihrer eigenen Pfeifsprache oder mit echter Stimme. Auf Handys mit Gemini Nano nutzen sie die KI des Handys, um Benachrichtigungen zusammenzufassen und Antworten vorzuschlagen.
+Die App hat keine Internetberechtigung: Sie kann nichts von deinem Handy senden. Der Zugriff auf Benachrichtigungen ist optional und wird vorher erklärt.
 
 ### Funktionen
 
-- Figuren nach Kategorie: Jede App bekommt einen Körper passend zu ihrer Art, mit ihrem echten Icon obendrauf.
-- Sie reagieren auf Benachrichtigungen: Sie springen und winken, wenn ihre App eine Benachrichtigung bekommt.
-- Ein vollständiger Startbildschirm: Seiten, Dock, App-Übersicht, Ordner und Bearbeitungsmodus.
-- Querformat: Dieselben Seiten, wenn du das Handy drehst.
+- Figuren mit ihrem Symbol: Jede App bekommt einen passenden Körper mit ihrem echten Symbol.
+- Reagieren auf Nachrichten: Sie hüpfen, sagen dir, wer schreibt, und werden ungeduldig.
+- Sie reden: Pfeifen oder echte Stimme und kleine Gespräche unter Nachbarn.
+- Antwortvorschläge: Mit der KI des Handys: drei kurze Antworten, antippen und gesendet.
+- Kompletter Startbildschirm: Seiten, App-Übersicht mit Suche, Seitenverwaltung und Farbhintergründe.
 - Ohne Internet: Keine Netzwerkberechtigung: Alles bleibt auf dem Handy.
-- Akkusparen: Volle Animationen oder Sparmodus, ganz wie du willst.
 
 ### Häufige Fragen
 
-**Was ist Living Icons?**
-Ein Android-Startbildschirm, auf dem jedes Icon eine animierte Figur ist, die auf die Benachrichtigungen ihrer App reagiert.
+**Was ist Hopsie?**
+Ein Android-Startbildschirm, auf dem jede App eine Figur ist, die auf ihre Nachrichten reagiert, plaudert und beim Antworten hilft.
 
-**Wann erscheint die App?**
-Die Designphase ist fast abgeschlossen. Zuerst startet ein geschlossener Test bei Google Play. Wenn du mitmachen möchtest, schreib uns.
+**Was kostet es und wann erscheint es?**
+3,99 €, einmalig, ohne Abo oder In-App-Käufe. Vorher gibt es einen geschlossenen Test bei Google Play; wenn du kostenlos testen möchtest, schreib uns.
 
-**Braucht sie Internet oder sammelt sie Daten?**
-Nein. Die App hat keine Internetberechtigung, keine Werbung und keine Analyse.
+**Braucht es Internet oder sammelt es Daten?**
+Nein. Die App hat keine Internetberechtigung, keine Werbung und keine Analysen.
 
-**Verbraucht sie viel Akku?**
-Es gibt einen Sparmodus, der die Animationen reduziert. Wir messen den Verbrauch vor dem Start auf echten Handys.
+**Funktioniert die KI auf meinem Handy?**
+Nur auf Handys mit Gemini Nano (zum Beispiel Galaxy S25 oder Pixel 10). Sonst funktioniert Hopsie genauso, nur ohne diese Funktionen.
+
+**Welche Sprache sprechen die Figuren?**
+Ihre Sätze sind vorerst auf Spanisch; weitere Sprachen folgen.
 

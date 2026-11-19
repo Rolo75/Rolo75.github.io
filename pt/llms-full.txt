@@ -1,6 +1,6 @@
 # Vivapane
 
-Um estúdio independente de apps para Android. Criamos telas iniciais diferentes: Aether Tiles, feita de blocos ao vivo, e Living Icons, em que os ícones são personagens. Sem anúncios, sem rastreamento e com seus dados no seu celular.
+Um estúdio independente de apps para Android. Criamos telas iniciais diferentes: Aether Tiles, feita de blocos ao vivo, e Hopsie, em que os ícones são personagens. Sem anúncios, sem rastreamento e com seus dados no seu celular.
 
 ## Aether Tiles
 
@@ -48,38 +48,42 @@ Com um toque nas configurações do Aether Tiles, ou em Configurações do Andro
 **Como posso testar?**
 Ele está em teste fechado no Google Play. Escreva para a gente e adicionamos você ao grupo de testadores.
 
-## Living Icons
+## Hopsie
 
-URL: https://vivapane.com/pt/living-icons/
-Status: Em desenvolvimento
-Preço: Grátis
+URL: https://vivapane.com/pt/hopsie/
+Status: Em breve no Google Play
+Preço: 3,99 € (pagamento único, sem subscrição)
 Requisitos: Android 8 ou superior
-Versão 1.0 (em teste)
+Versão 1.0 (em testes)
 
-No Living Icons, os ícones não ficam parados. Cada app ganha um corpo de acordo com o que faz (mensagens, música, jogos, câmera…), com olhos e braços, e carrega o seu ícone real.
-Quando um app recebe uma notificação, o personagem pula e acena. Ao voltar para a tela inicial, você os vê acordar, e eles reagem quando você toca neles. Um modo de economia evita que as animações gastem a bateria.
-O app não tem permissão de internet: não consegue enviar nada para fora do celular. O acesso às notificações é opcional e explicado antes de ser pedido.
+No Hopsie as tuas apps não ficam paradas. Cada uma tem um corpo de acordo com o que faz, com olhos, braços com luvas e o seu ícone verdadeiro na barriga.
+Quando chega uma mensagem, a personagem dá um salto e diz-te quem escreveu. Se a ignorares, insiste; depois cruza os braços e acaba sentada, resignada, até abrires a app. À noite adormecem, e a que tem uma notificação acorda para te lembrar.
+Conversam na sua língua de assobios ou com voz real. Nos telemóveis com Gemini Nano usam a IA do telemóvel para resumir as notificações e sugerir respostas.
+A app não tem permissão de internet: não pode enviar nada para fora do telemóvel. O acesso às notificações é opcional e é explicado antes de ser pedido.
 
 ### Recursos
 
-- Personagens por categoria: Cada app ganha um corpo de acordo com o tipo, com o ícone real por cima.
-- Reagem às notificações: Pulam e acenam quando o app deles recebe uma notificação.
-- Uma tela inicial completa: Páginas, barra inferior, gaveta de apps, pastas e modo de edição.
-- Horizontal: As mesmas páginas quando você gira o celular.
-- Sem internet: Sem permissão de rede: tudo fica no celular.
-- Economia de bateria: Animações completas ou modo de economia, como preferir.
+- Personagens com o seu ícone: Cada app recebe um corpo adequado, com o seu ícone verdadeiro.
+- Reagem às notificações: Saltam, dizem-te quem escreve e ficam impacientes.
+- Falam: Assobios ou voz real, e pequenas conversas entre vizinhos.
+- Respostas sugeridas: Com a IA do telemóvel: três respostas curtas, um toque e é enviada.
+- Ecrã inicial completo: Páginas, gaveta com pesquisa, gestor de páginas e fundos de cor.
+- Sem internet: Sem permissão de rede: tudo fica no telemóvel.
 
 ### Perguntas frequentes
 
-**O que é o Living Icons?**
-Uma tela inicial para Android em que cada ícone é um personagem animado que reage às notificações do seu app.
+**O que é o Hopsie?**
+Um ecrã inicial para Android onde cada app é uma personagem que reage às suas notificações, conversa e te ajuda a responder.
 
-**Quando vai sair?**
-A fase de design está quase no fim. Primeiro ele sai em teste fechado no Google Play; se quiser testar, escreva para a gente.
+**Quanto custa e quando sai?**
+3,99 €, pago uma vez, sem subscrições nem compras na app. Antes passa por um teste fechado no Google Play; se quiseres experimentar gratuitamente, escreve-nos.
 
-**Precisa de internet ou coleta dados?**
-Não. O app não tem permissão de internet, nem anúncios, nem análises.
+**Precisa de internet ou recolhe dados?**
+Não. A app não tem permissão de internet, nem anúncios, nem estatísticas.
 
-**Gasta muita bateria?**
-Tem um modo de economia que reduz as animações. Estamos medindo o consumo em celulares reais antes do lançamento.
+**A IA funciona no meu telemóvel?**
+Só nos telemóveis com Gemini Nano (por exemplo Galaxy S25 ou Pixel 10). Nos outros, o Hopsie funciona igual, sem essas funções.
+
+**Em que língua falam as personagens?**
+Por agora em espanhol; outras línguas estão a caminho.
 

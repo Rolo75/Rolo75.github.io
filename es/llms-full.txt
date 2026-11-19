@@ -1,6 +1,6 @@
 # Vivapane
 
-Estudio independiente de apps para Android. Hacemos pantallas de inicio distintas: Aether Tiles, de mosaicos vivos, y Living Icons, donde los iconos son personajes. Sin anuncios, sin rastreo y con tus datos en tu móvil.
+Estudio independiente de apps para Android. Hacemos pantallas de inicio distintas: Aether Tiles, de mosaicos vivos, y Hopsie, donde los iconos son personajes. Sin anuncios, sin rastreo y con tus datos en tu móvil.
 
 ## Aether Tiles
 
@@ -48,38 +48,42 @@ Desde los ajustes de Aether Tiles, con un toque, o en Ajustes de Android, Apps p
 **¿Cómo puedo probarla?**
 Está en prueba cerrada en Google Play. Escríbenos y te añadimos al grupo de testers.
 
-## Living Icons
+## Hopsie
 
-URL: https://vivapane.com/es/living-icons/
-Estado: En desarrollo
-Precio: Gratis
+URL: https://vivapane.com/es/hopsie/
+Estado: Muy pronto en Google Play
+Precio: 3,99 € (pago único, sin suscripción)
 Requisitos: Android 8 o superior
 Versión 1.0 (en pruebas)
 
-En Living Icons los iconos no están quietos. Cada app tiene un cuerpo según lo que hace (mensajería, música, juegos, cámara…), con ojos y brazos, y lleva encima su icono real.
-Cuando una app recibe un aviso, su personaje salta y saluda. Al volver a Inicio los ves despertarse, y si los tocas reaccionan. Hay un modo de ahorro para que las animaciones no gasten batería.
+En Hopsie las apps no están quietas. Cada una tiene un cuerpo según lo que hace, con ojos, brazos con guantes y su icono real en la barriga.
+Cuando te llega un mensaje, su personaje pega un brinco y te dice quién escribe. Si no le haces caso, insiste; si sigues sin mirarlo, se cruza de brazos y acaba sentado, resignado, hasta que abres la app. Por la noche se duermen, y el que tiene un aviso se despierta para recordártelo.
+Charlan entre ellos en su idioma de silbidos o con voz real, con carácter adulto o adolescente. En móviles con Gemini Nano usan la IA del propio móvil para resumirte los avisos y proponerte respuestas.
 La app no tiene permiso de internet: no puede enviar nada fuera del móvil. El acceso a las notificaciones es opcional y se explica antes de pedirlo.
 
 ### Funciones
 
-- Personajes por categoría: Cada app recibe un cuerpo según su tipo, con su icono real encima.
-- Reaccionan a tus avisos: Saltan y saludan cuando su app recibe una notificación.
-- Pantalla de inicio completa: Páginas, barra inferior, cajón de apps, carpetas y modo edición.
-- Horizontal: Las mismas páginas al girar el móvil.
+- Personajes con su icono: Cada app recibe un cuerpo según su tipo, con su icono real encima.
+- Reaccionan a tus avisos: Brincan, te dicen quién escribe y se impacientan si no miras.
+- Te hablan: Silbidos o voz real, carácter adulto o adolescente, y charlas entre vecinos.
+- Respuestas sugeridas: Con la IA del móvil: tres respuestas cortas; tocas una y se envía.
+- Pantalla de inicio completa: Páginas, cajón con búsqueda, gestor de pantallas y fondos de color.
 - Sin internet: No tiene permiso de red: todo se queda en el móvil.
-- Ahorro de batería: Animaciones completas o modo ahorro, como prefieras.
 
 ### Preguntas frecuentes
 
-**¿Qué es Living Icons?**
-Una pantalla de inicio para Android en la que cada icono es un personaje animado que reacciona a los avisos de su app.
+**¿Qué es Hopsie?**
+Una pantalla de inicio para Android en la que cada app es un personaje que reacciona a sus avisos, charla y te ayuda a contestar.
 
-**¿Cuándo sale?**
-Está terminando la fase de diseño. Primero saldrá en prueba cerrada en Google Play; si quieres probarla, escríbenos.
+**¿Cuánto cuesta y cuándo sale?**
+3,99 €, un solo pago, sin suscripciones ni compras dentro. Antes pasa por una prueba cerrada en Google Play; si quieres probarla gratis, escríbenos.
 
 **¿Necesita internet o recoge datos?**
 No. La app no tiene permiso de internet, ni anuncios, ni analíticas.
 
+**¿Las funciones de IA funcionan en mi móvil?**
+Solo en móviles con Gemini Nano (por ejemplo, Galaxy S25 o Pixel 10). En el resto, Hopsie funciona igual, sin esas funciones.
+
 **¿Gasta mucha batería?**
-Tiene un modo de ahorro que reduce las animaciones. Lo estamos midiendo en móviles reales antes de publicarla.
+En reposo las animaciones van a pocos fotogramas por segundo y se paran del todo con la pantalla apagada o mientras usas otra app.
 
