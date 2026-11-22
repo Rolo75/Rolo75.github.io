@@ -1,0 +1,24 @@
+# Vivapane
+
+> An independent studio making Android apps. We build home screens that feel different: Aether Tiles, made of live tiles, and Hopsie, where your icons are little characters. No ads, no tracking, and your data stays on your phone.
+
+Contact: aetherandroid75@gmail.com
+
+## Apps
+
+- [Aether Tiles](https://vivapane.com/aether-tiles/): Aether Tiles is a free Android home screen (launcher) that replaces icons with a grid of live tiles: clock, calendar, battery, weather, music and notifications, with no ads and no tracking. Status: Closed testing on Google Play.
+- [Hopsie](https://vivapane.com/hopsie/): Hopsie is an Android home screen where every app is a character with eyes, arms and its usual icon. They react to your notifications, chat with each other and, on phones with built-in AI, suggest replies. No internet, no ads, no analytics. Status: Coming soon to Google Play.
+
+## Privacy
+
+- [Aether Tiles privacy policy (in Spanish)](https://vivapane.com/aether-tiles-privacy/)
+- [Hopsie privacy policy (in Spanish)](https://vivapane.com/es/hopsie/privacidad/)
+
+## Other language versions
+
+- English (en): https://vivapane.com/ · https://vivapane.com/llms-full.txt
+- Español (es): https://vivapane.com/es/ · https://vivapane.com/es/llms-full.txt
+- Deutsch (de): https://vivapane.com/de/ · https://vivapane.com/de/llms-full.txt
+- Français (fr): https://vivapane.com/fr/ · https://vivapane.com/fr/llms-full.txt
+- Italiano (it): https://vivapane.com/it/ · https://vivapane.com/it/llms-full.txt
+- Português (pt): https://vivapane.com/pt/ · https://vivapane.com/pt/llms-full.txt

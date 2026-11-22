@@ -1,0 +1,92 @@
+# Vivapane
+
+Un studio indépendant d'applis Android. Nous créons des écrans d'accueil qui sortent de l'ordinaire : Aether Tiles, fait de tuiles dynamiques, et Hopsie, où vos icônes sont des petits personnages. Sans pub, sans pistage, et vos données restent sur votre téléphone.
+
+## Aether Tiles
+
+URL: https://vivapane.com/fr/aether-tiles/
+Statut: Test fermé sur Google Play
+Prix: Gratuit, sans pub
+Configuration requise: Android 10 ou plus récent
+Version 1.3.0
+
+Aether Tiles remplace l'écran d'accueil de votre Android par une grille de tuiles. Chaque tuile affiche des infos en direct : l'heure avec le cadran de votre choix, votre prochain rendez-vous, le niveau de batterie, la météo de votre ville ou le morceau en cours, avec des boutons pour le mettre en pause.
+Les tuiles ont un aspect verre posé sur votre fond d'écran, et un fin trait de lumière fait lentement le tour de leurs bords. Cette lumière sert aussi à vous prévenir : verte pendant la charge, rouge quand la batterie est faible, et ambrée autour d'une appli qui a des messages non lus.
+Tout est enregistré sur votre téléphone. Pas de serveurs à nous, pas de pub, pas de statistiques. L'appli ne se connecte à internet que pour ce que vous activez : la météo de la ville choisie et les tuiles d'actualité.
+
+### Fonctions
+
+- Mode prêt: Vous prêtez votre téléphone et la personne ne voit que les applis que vous choisissez. Pour en sortir, il faut votre code PIN.
+- Panneau de notifications: Glissez vers le bas sur l'accueil : notifications groupées par appli, musique et réglages rapides.
+- Tuiles dynamiques: Horloge à onze cadrans, agenda, batterie, météo, musique, notes et actualités.
+- Vos proches en tuiles: Épinglez vos favoris : un geste et leur numéro est prêt à être appelé.
+- À votre goût: Quatre tailles, plus couleur, matière, opacité, coins et photo de fond pour chaque tuile.
+- Widgets et dossiers: Placez les widgets de vos applis dans une tuile et regroupez vos applis en dossiers.
+- Mode confidentialité: Les tuiles indiquent combien de notifications vous avez, mais pas qui vous écrit ni ce que vous écoutez.
+- Sauvegarde: Enregistrez votre écran d'accueil dans un fichier et restaurez-le sur un autre téléphone.
+
+### Questions fréquentes
+
+**Qu'est-ce qu'Aether Tiles ?**
+Un écran d'accueil pour Android qui affiche vos applis sous forme de tuiles avec des infos en direct (heure, rendez-vous, batterie, météo, musique et notifications) au lieu d'icônes figées.
+
+**C'est gratuit ? Il y a de la pub ?**
+C'est gratuit, sans pub et sans statistiques.
+
+**L'appli collecte-t-elle mes données ?**
+Non. Tout est enregistré sur le téléphone. Elle ne se connecte à internet que pour la météo de la ville choisie et pour les tuiles d'actualité que vous ajoutez.
+
+**Qu'est-ce que le mode prêt ?**
+Une façon de prêter votre téléphone : l'autre personne ne peut ouvrir que les applis que vous choisissez, et il faut votre code PIN pour en sortir. Ce n'est pas un contrôle parental.
+
+**Quelles autorisations demande-t-elle ?**
+Toutes sont facultatives : notifications (compteurs, lumière et panneau), agenda (prochain rendez-vous) et accès aux données d'utilisation (uniquement pour le mode prêt). Sans elles, elle fonctionne comme un launcher à tuiles classique.
+
+**Comment revenir à mon écran d'accueil habituel ?**
+En un geste depuis les réglages d'Aether Tiles, ou dans les Paramètres d'Android, Applications par défaut.
+
+**Comment l'essayer ?**
+Elle est en test fermé sur Google Play. Écrivez-nous et nous vous ajouterons au groupe de testeurs.
+
+## Hopsie
+
+URL: https://vivapane.com/fr/hopsie/
+Statut: Bientôt sur Google Play
+Prix: 3,99 € (paiement unique, sans abonnement)
+Configuration requise: Android 8 ou plus récent
+Version 1.0 (en test)
+
+Avec Hopsie, tes applis ne restent pas immobiles. Chacune a un corps adapté à ce qu'elle fait, avec des yeux, des bras gantés et sa vraie icône sur le ventre.
+Quand un message arrive, son personnage saute et te dit qui a écrit. Si tu l'ignores, il insiste, puis croise les bras et finit assis, résigné, jusqu'à ce que tu ouvres l'appli. La nuit, ils dorment, et celui qui a une notification se réveille pour te la rappeler.
+Ils bavardent dans leur langue de sifflements ou avec une vraie voix. Sur les téléphones avec Gemini Nano, ils utilisent l'IA du téléphone pour résumer les notifications et proposer des réponses.
+L'appli n'a pas l'autorisation internet : elle ne peut rien envoyer hors du téléphone. L'accès aux notifications est facultatif et expliqué avant d'être demandé.
+
+### Fonctions
+
+- Personnages avec leur icône: Chaque appli reçoit un corps adapté, avec sa vraie icône.
+- Réagissent aux notifications: Ils sautent, te disent qui écrit et s'impatientent.
+- Ils parlent: Sifflements ou vraie voix, et petites conversations entre voisins.
+- Réponses suggérées: Avec l'IA du téléphone : trois réponses courtes, un appui et c'est envoyé.
+- Écran d'accueil complet: Pages, tiroir avec recherche, gestion des pages et fonds de couleur.
+- Sans internet: Aucune autorisation réseau : tout reste sur le téléphone.
+
+### Questions fréquentes
+
+**Qu'est-ce que Hopsie ?**
+Un écran d'accueil Android où chaque appli est un personnage qui réagit à ses notifications, bavarde et t'aide à répondre.
+
+**Combien ça coûte et quand sort-il ?**
+3,99 €, en une fois, sans abonnement ni achats intégrés. Il passe d'abord par un test fermé sur Google Play ; si tu veux l'essayer gratuitement, écris-nous.
+
+**A-t-il besoin d'internet ou collecte-t-il des données ?**
+Non. L'appli n'a ni autorisation internet, ni publicité, ni statistiques.
+
+**L'IA fonctionne-t-elle sur mon téléphone ?**
+Seulement sur les téléphones avec Gemini Nano (par exemple Galaxy S25 ou Pixel 10). Ailleurs, Hopsie fonctionne pareil, sans ces fonctions.
+
+**Dans quelle langue parlent les personnages ?**
+Pour l'instant en espagnol ; d'autres langues arrivent.
+
+**Et si l'appli plante ?**
+Si Hopsie se ferme deux fois de suite, elle démarre en mode sans échec : elle revient à ton dernier écran d'accueil qui fonctionnait, sans animations, et un toucher suffit pour revenir au mode normal.
+

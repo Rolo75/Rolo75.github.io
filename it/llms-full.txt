@@ -1,0 +1,92 @@
+# Vivapane
+
+Uno studio indipendente di app per Android. Creiamo schermate home diverse dal solito: Aether Tiles, fatta di riquadri animati, e Hopsie, dove le icone sono piccoli personaggi. Niente pubblicità, niente tracciamento, e i tuoi dati restano sul telefono.
+
+## Aether Tiles
+
+URL: https://vivapane.com/it/aether-tiles/
+Stato: Test chiuso su Google Play
+Prezzo: Gratis, senza pubblicità
+Requisiti: Android 10 o successivo
+Versione 1.3.0
+
+Aether Tiles sostituisce la schermata home del tuo Android con una griglia di riquadri. Ogni riquadro mostra informazioni in tempo reale: l'ora con il quadrante che preferisci, il prossimo appuntamento, quanta batteria resta, il meteo della tua città o la canzone in riproduzione, con i tasti per metterla in pausa.
+I riquadri hanno un effetto vetro sopra lo sfondo e una sottile linea di luce che ne percorre lentamente i bordi. Quella luce ti avvisa anche: diventa verde mentre carichi, rossa con la batteria scarica e gira color ambra attorno all'app con messaggi non letti.
+Tutto viene salvato sul telefono. Niente server nostri, niente pubblicità, niente statistiche. Si collega a internet solo per ciò che attivi tu: il meteo della città scelta e i riquadri di notizie.
+
+### Funzioni
+
+- Modalità prestito: Presti il telefono a qualcuno e vede solo le app che scegli tu. Per uscire serve il tuo PIN.
+- Pannello notifiche: Scorri verso il basso sulla home: notifiche raggruppate per app, musica e impostazioni rapide.
+- Riquadri animati: Orologio con undici quadranti, calendario, batteria, meteo, musica, note e notizie.
+- Persone come riquadri: Fissa i tuoi preferiti: un tocco e il loro numero è pronto da chiamare.
+- Come piace a te: Quattro dimensioni, più colore, materiale, opacità, angoli e foto di sfondo per ogni riquadro.
+- Widget e cartelle: Metti i widget delle tue app dentro un riquadro e raggruppa le app in cartelle.
+- Modalità privacy: I riquadri mostrano quante notifiche hai, ma non chi ti scrive né cosa stai ascoltando.
+- Backup: Salva la tua schermata home in un file e ripristinala su un altro telefono.
+
+### Domande frequenti
+
+**Che cos'è Aether Tiles?**
+Una schermata home per Android che mostra le tue app come riquadri con informazioni in tempo reale (ora, appuntamenti, batteria, meteo, musica e notifiche) invece di icone fisse.
+
+**È gratis? Ha pubblicità?**
+È gratis, senza pubblicità e senza statistiche.
+
+**Raccoglie i miei dati?**
+No. Tutto viene salvato sul telefono. Si collega a internet solo per il meteo della città che scegli e per i riquadri di notizie che aggiungi.
+
+**Che cos'è la modalità prestito?**
+Un modo per prestare il telefono a un'altra persona: potrà aprire solo le app che scegli e per uscire serve il tuo PIN. Non è un parental control.
+
+**Quali autorizzazioni chiede?**
+Sono tutte facoltative: notifiche (contatori, luce e pannello), calendario (prossimo appuntamento) e accesso ai dati di utilizzo (solo per la modalità prestito). Senza di esse funziona come un normale launcher a riquadri.
+
+**Come torno alla mia schermata home di sempre?**
+Con un tocco dalle impostazioni di Aether Tiles, oppure in Impostazioni di Android, App predefinite.
+
+**Come posso provarla?**
+È in test chiuso su Google Play. Scrivici e ti aggiungiamo al gruppo dei tester.
+
+## Hopsie
+
+URL: https://vivapane.com/it/hopsie/
+Stato: Presto su Google Play
+Prezzo: 3,99 € (pagamento unico, senza abbonamento)
+Requisiti: Android 8 o successivo
+Versione 1.0 (in test)
+
+Con Hopsie le tue app non stanno ferme. Ognuna ha un corpo adatto a quello che fa, con occhi, braccia con i guanti e la sua vera icona sulla pancia.
+Quando arriva un messaggio, il suo personaggio fa un salto e ti dice chi ha scritto. Se lo ignori insiste, poi incrocia le braccia e finisce seduto, rassegnato, finché non apri l'app. Di notte dormono, e quello con una notifica si sveglia per ricordartela.
+Chiacchierano nella loro lingua di fischi o con una voce vera. Sui telefoni con Gemini Nano usano l'IA del telefono per riassumere le notifiche e proporre risposte.
+L'app non ha il permesso di internet: non può inviare nulla fuori dal telefono. L'accesso alle notifiche è facoltativo e viene spiegato prima di chiederlo.
+
+### Funzioni
+
+- Personaggi con la loro icona: Ogni app riceve un corpo adatto, con la sua vera icona.
+- Reagiscono alle notifiche: Saltano, ti dicono chi scrive e si spazientiscono.
+- Parlano: Fischi o voce vera, e piccole chiacchiere tra vicini.
+- Risposte suggerite: Con l'IA del telefono: tre risposte brevi, un tocco ed è inviata.
+- Schermata home completa: Pagine, cassetto con ricerca, gestione pagine e sfondi a colori.
+- Senza internet: Nessun permesso di rete: tutto resta sul telefono.
+
+### Domande frequenti
+
+**Che cos'è Hopsie?**
+Una schermata home per Android dove ogni app è un personaggio che reagisce alle sue notifiche, chiacchiera e ti aiuta a rispondere.
+
+**Quanto costa e quando esce?**
+3,99 €, una sola volta, senza abbonamenti né acquisti in-app. Prima passa da un test chiuso su Google Play; se vuoi provarla gratis, scrivici.
+
+**Ha bisogno di internet o raccoglie dati?**
+No. L'app non ha il permesso di internet, né pubblicità, né statistiche.
+
+**L'IA funziona sul mio telefono?**
+Solo sui telefoni con Gemini Nano (per esempio Galaxy S25 o Pixel 10). Altrove Hopsie funziona allo stesso modo, senza quelle funzioni.
+
+**In che lingua parlano i personaggi?**
+Per ora in spagnolo; altre lingue sono in arrivo.
+
+**E se l'app si blocca?**
+Se Hopsie si chiude due volte di fila, si avvia in modalità sicura: torna all'ultima schermata home che funzionava, senza animazioni, e con un tocco torni alla modalità normale.
+
