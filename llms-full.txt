@@ -40,13 +40,13 @@ No. Everything is stored on the phone. It only goes online for the weather in th
 A way to hand your phone to someone else: they can only open the apps you choose, and leaving it takes your PIN. It isn't parental control.
 
 **What permissions does it ask for?**
-All of them are optional: notifications (counters, light and panel), calendar (next appointment) and usage access (only for lend mode). Without them it works as a regular tile launcher.
+All of them are optional: notifications (counters, light and panel), calendar (next appointment) and usage access (only for lend mode). Without them it works as a regular tile home screen.
 
 **How do I go back to my usual home screen?**
 With one tap from the Aether Tiles settings, or in Android Settings, Default apps.
 
 **How can I try it?**
-It's in closed testing on Google Play. Follow the steps next to the “I want to try it” button: write to us first, we add you to the testers group, and then you accept the test on Play.
+It's in closed testing on Google Play. Follow the steps next to the “I want to try it” button: first join the “aether-tiles-testers” group on Google Groups, then accept the test on Play.
 
 ## Hopsie
 

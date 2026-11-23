@@ -11,8 +11,8 @@ Contact: aetherandroid75@gmail.com
 
 ## Privacy
 
-- [Aether Tiles privacy policy (in Spanish)](https://vivapane.com/aether-tiles-privacy/)
-- [Hopsie privacy policy (in Spanish)](https://vivapane.com/es/hopsie/privacidad/)
+- [Aether Tiles privacy policy](https://vivapane.com/aether-tiles-privacy/en.html)
+- [Hopsie privacy policy](https://vivapane.com/hopsie/privacidad/)
 
 ## Other language versions
 

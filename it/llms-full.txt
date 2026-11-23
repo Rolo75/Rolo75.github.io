@@ -40,13 +40,13 @@ No. Tutto viene salvato sul telefono. Si collega a internet solo per il meteo de
 Un modo per prestare il telefono a un'altra persona: potrà aprire solo le app che scegli e per uscire serve il tuo PIN. Non è un parental control.
 
 **Quali autorizzazioni chiede?**
-Sono tutte facoltative: notifiche (contatori, luce e pannello), calendario (prossimo appuntamento) e accesso ai dati di utilizzo (solo per la modalità prestito). Senza di esse funziona come un normale launcher a riquadri.
+Sono tutte facoltative: notifiche (contatori, luce e pannello), calendario (prossimo appuntamento) e accesso ai dati di utilizzo (solo per la modalità prestito). Senza di esse funziona come una normale schermata home a riquadri.
 
 **Come torno alla mia schermata home di sempre?**
 Con un tocco dalle impostazioni di Aether Tiles, oppure in Impostazioni di Android, App predefinite.
 
 **Come posso provarla?**
-È in test chiuso su Google Play. Segui i passaggi accanto al pulsante «Voglio provarla»: prima ci scrivi, ti aggiungiamo al gruppo dei tester e poi accetti il test su Play.
+È in test chiuso su Google Play. Segui i passaggi accanto al pulsante «Voglio provarla»: prima ti unisci al gruppo «aether-tiles-testers» su Google Gruppi e poi accetti il test su Play.
 
 ## Hopsie
 

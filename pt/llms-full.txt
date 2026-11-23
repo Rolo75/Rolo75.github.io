@@ -40,13 +40,13 @@ Não. Tudo fica salvo no celular. Ele só se conecta à internet para o clima da
 Uma forma de emprestar o celular a outra pessoa: ela só consegue abrir os apps que você escolher, e para sair é preciso o seu PIN. Não é controle parental.
 
 **Quais permissões ele pede?**
-Todas são opcionais: notificações (contadores, luz e painel), agenda (próximo compromisso) e acesso ao uso (só para o modo empréstimo). Sem elas, funciona como um launcher de blocos comum.
+Todas são opcionais: notificações (contadores, luz e painel), agenda (próximo compromisso) e acesso ao uso (só para o modo empréstimo). Sem elas, funciona como uma tela inicial de blocos comum.
 
 **Como volto para a minha tela inicial de sempre?**
 Com um toque nas configurações do Aether Tiles, ou em Configurações do Android, Apps padrão.
 
 **Como posso testar?**
-Está em teste fechado no Google Play. Siga os passos ao lado do botão «Quero testar»: primeiro você escreve para a gente, adicionamos você ao grupo de testadores e depois você aceita o teste no Play.
+Está em teste fechado no Google Play. Siga os passos ao lado do botão «Quero testar»: primeiro você entra no grupo «aether-tiles-testers» nos Grupos do Google e depois aceita o teste no Play.
 
 ## Hopsie
 

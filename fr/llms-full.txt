@@ -40,13 +40,13 @@ Non. Tout est enregistré sur le téléphone. Elle ne se connecte à internet qu
 Une façon de prêter votre téléphone : l'autre personne ne peut ouvrir que les applis que vous choisissez, et il faut votre code PIN pour en sortir. Ce n'est pas un contrôle parental.
 
 **Quelles autorisations demande-t-elle ?**
-Toutes sont facultatives : notifications (compteurs, lumière et panneau), agenda (prochain rendez-vous) et accès aux données d'utilisation (uniquement pour le mode prêt). Sans elles, elle fonctionne comme un launcher à tuiles classique.
+Toutes sont facultatives : notifications (compteurs, lumière et panneau), agenda (prochain rendez-vous) et accès aux données d'utilisation (uniquement pour le mode prêt). Sans elles, elle fonctionne comme un écran d'accueil à tuiles classique.
 
 **Comment revenir à mon écran d'accueil habituel ?**
 En un geste depuis les réglages d'Aether Tiles, ou dans les Paramètres d'Android, Applications par défaut.
 
 **Comment l'essayer ?**
-Elle est en test fermé sur Google Play. Suivez les étapes à côté du bouton « Je veux l'essayer » : vous nous écrivez, nous vous ajoutons au groupe de testeurs, puis vous acceptez le test sur Play.
+Elle est en test fermé sur Google Play. Suivez les étapes à côté du bouton « Je veux l'essayer » : rejoignez d'abord le groupe « aether-tiles-testers » sur Google Groups, puis acceptez le test sur Play.
 
 ## Hopsie
 

@@ -40,13 +40,13 @@ Nein. Alles wird auf dem Handy gespeichert. Ins Internet geht sie nur für das W
 Eine Möglichkeit, jemand anderem dein Handy zu geben: Die Person kann nur die Apps öffnen, die du auswählst, und zum Beenden braucht es deine PIN. Es ist keine Kindersicherung.
 
 **Welche Berechtigungen braucht die App?**
-Alle sind optional: Benachrichtigungen (Zähler, Licht und Feld), Kalender (nächster Termin) und Nutzungszugriff (nur für den Leihmodus). Ohne sie funktioniert sie als normaler Kachel-Launcher.
+Alle sind optional: Benachrichtigungen (Zähler, Licht und Feld), Kalender (nächster Termin) und Nutzungszugriff (nur für den Leihmodus). Ohne sie funktioniert sie als ganz normaler Kachel-Startbildschirm.
 
 **Wie komme ich zu meinem gewohnten Startbildschirm zurück?**
 Mit einem Tipp in den Einstellungen von Aether Tiles oder in den Android-Einstellungen unter Standard-Apps.
 
 **Wie kann ich sie testen?**
-Sie ist im geschlossenen Test bei Google Play. Folge den Schritten neben dem Button „Ich will sie testen“: Erst schreibst du uns, wir nehmen dich in die Testergruppe auf, und dann bestätigst du den Test bei Play.
+Sie ist im geschlossenen Test bei Google Play. Folge den Schritten neben dem Button „Ich will sie testen“: Erst trittst du der Gruppe „aether-tiles-testers“ in Google Groups bei, dann bestätigst du den Test bei Play.
 
 ## Hopsie
 

@@ -40,13 +40,13 @@ No. Todo se guarda en el móvil. Solo se conecta a internet para el tiempo de la
 Una forma de dejar el móvil a otra persona: solo podrá abrir las apps que elijas y para salir hace falta tu PIN. No es un control parental.
 
 **¿Qué permisos pide?**
-Todos son opcionales: notificaciones (contadores, luz y panel), calendario (próxima cita) y acceso a uso (solo para el modo prestar). Sin ellos funciona como un launcher de mosaicos normal.
+Todos son opcionales: notificaciones (contadores, luz y panel), calendario (próxima cita) y acceso a uso (solo para el modo prestar). Sin ellos funciona como una pantalla de inicio de mosaicos normal.
 
 **¿Cómo vuelvo a mi pantalla de inicio de siempre?**
 Desde los ajustes de Aether Tiles, con un toque, o en Ajustes de Android, Apps predeterminadas.
 
 **¿Cómo puedo probarla?**
-Está en prueba cerrada en Google Play. Sigue los pasos que hay junto al botón «Quiero probarla»: primero nos escribes, te añadimos al grupo de testers y después aceptas la prueba en Play.
+Está en prueba cerrada en Google Play. Sigue los pasos que hay junto al botón «Quiero probarla»: primero te unes al grupo de testers «aether-tiles-testers» en Grupos de Google y después aceptas la prueba en Play.
 
 ## Hopsie
 
