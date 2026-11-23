@@ -192,3 +192,12 @@ details p { color: var(--suave); margin: 10px 0 0; }
 }
 .tarjeta.proxima { border-style: dashed; }
 .tarjeta.proxima:hover { transform: none; border-color: var(--linea); }
+/* Tarjetas anchas de «Próximamente»: texto a la izquierda y capturas del móvil real a la derecha. */
+.tarjeta.proxima { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: 26px; align-items: center; }
+.proxima-texto { display: flex; flex-direction: column; gap: 12px; }
+.proxima-puntos { margin: 0; padding-left: 1.1em; color: var(--suave); }
+.proxima-puntos li { margin: 4px 0; }
+.proxima-texto small { color: #7f879e; font-size: .84rem; }
+.proxima-capturas { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 6px; justify-content: flex-start; }
+.proxima-capturas img { flex: 0 0 150px; width: 150px; height: auto; border-radius: 16px; border: 1px solid var(--linea); scroll-snap-align: start; }
+@media (max-width: 760px) { .tarjeta.proxima { grid-template-columns: 1fr; } }
