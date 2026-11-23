@@ -8,7 +8,7 @@ URL: https://vivapane.com/de/aether-tiles/
 Status: Geschlossener Test bei Google Play
 Preis: Kostenlos, ohne Werbung
 Voraussetzungen: Android 10 oder neuer
-Version 1.4.1
+Version 1.5
 
 Aether Tiles ersetzt den Startbildschirm deines Android-Handys durch ein Raster aus Kacheln. Jede Kachel zeigt Live-Informationen: die Uhrzeit mit dem Zifferblatt deiner Wahl, deinen nächsten Termin, den Akkustand, das Wetter in deiner Stadt oder den Song, der gerade läuft, mit Tasten zum Pausieren.
 Die Kacheln liegen wie Glas über deinem Hintergrund, und ein feiner Lichtstreifen wandert langsam um ihre Ränder. Das Licht hat auch eine Bedeutung: Beim Laden wird es grün, bei schwachem Akku rot, und um Apps mit ungelesenen Nachrichten kreist es bernsteinfarben.
@@ -45,8 +45,8 @@ Alle sind optional: Benachrichtigungen (Zähler, Licht und Feld), Kalender (näc
 **Wie komme ich zu meinem gewohnten Startbildschirm zurück?**
 Mit einem Tipp in den Einstellungen von Aether Tiles oder in den Android-Einstellungen unter Standard-Apps.
 
-**Wie kann ich die App testen?**
-Sie ist im geschlossenen Test bei Google Play. Schreib uns, und wir nehmen dich in die Testgruppe auf.
+**Wie kann ich sie testen?**
+Sie ist im geschlossenen Test bei Google Play. Folge den Schritten neben dem Button „Ich will sie testen“: Erst schreibst du uns, wir nehmen dich in die Testergruppe auf, und dann bestätigst du den Test bei Play.
 
 ## Hopsie
 

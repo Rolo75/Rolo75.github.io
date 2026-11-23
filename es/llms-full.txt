@@ -8,7 +8,7 @@ URL: https://vivapane.com/es/aether-tiles/
 Estado: Prueba cerrada en Google Play
 Precio: Gratis, sin anuncios
 Requisitos: Android 10 o superior
-Versión 1.4.1
+Versión 1.5
 
 Aether Tiles sustituye la pantalla de inicio de tu Android por una cuadrícula de mosaicos. Cada mosaico enseña información en directo: la hora con la esfera que elijas, tu próxima cita, cuánta batería queda, el tiempo de tu ciudad o la canción que suena, con botones para pausarla.
 Los mosaicos tienen un acabado de cristal sobre tu fondo y un borde de luz que los recorre despacio. Esa luz también avisa: se pone verde mientras cargas, roja con poca batería y gira en ámbar sobre la app que tiene mensajes sin leer.
@@ -46,7 +46,7 @@ Todos son opcionales: notificaciones (contadores, luz y panel), calendario (pró
 Desde los ajustes de Aether Tiles, con un toque, o en Ajustes de Android, Apps predeterminadas.
 
 **¿Cómo puedo probarla?**
-Está en prueba cerrada en Google Play. Escríbenos y te añadimos al grupo de testers.
+Está en prueba cerrada en Google Play. Sigue los pasos que hay junto al botón «Quiero probarla»: primero nos escribes, te añadimos al grupo de testers y después aceptas la prueba en Play.
 
 ## Hopsie
 

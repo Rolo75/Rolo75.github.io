@@ -8,7 +8,7 @@ URL: https://vivapane.com/pt/aether-tiles/
 Status: Teste fechado no Google Play
 Preço: Grátis, sem anúncios
 Requisitos: Android 10 ou superior
-Versão 1.4.1
+Versão 1.5
 
 O Aether Tiles substitui a tela inicial do seu Android por uma grade de blocos. Cada bloco mostra informações ao vivo: a hora com o mostrador que você escolher, seu próximo compromisso, quanto resta de bateria, o clima da sua cidade ou a música que está tocando, com botões para pausar.
 Os blocos têm um acabamento de vidro sobre o seu papel de parede e uma linha fina de luz que percorre devagar as bordas. Essa luz também avisa: fica verde enquanto carrega, vermelha com pouca bateria e gira em âmbar no app que tem mensagens não lidas.
@@ -46,47 +46,47 @@ Todas são opcionais: notificações (contadores, luz e painel), agenda (próxim
 Com um toque nas configurações do Aether Tiles, ou em Configurações do Android, Apps padrão.
 
 **Como posso testar?**
-Ele está em teste fechado no Google Play. Escreva para a gente e adicionamos você ao grupo de testadores.
+Está em teste fechado no Google Play. Siga os passos ao lado do botão «Quero testar»: primeiro você escreve para a gente, adicionamos você ao grupo de testadores e depois você aceita o teste no Play.
 
 ## Hopsie
 
 URL: https://vivapane.com/pt/hopsie/
 Status: Em breve no Google Play
-Preço: 3,99 € (pagamento único, sem subscrição)
+Preço: 3,99 € (pagamento único, sem assinatura)
 Requisitos: Android 8 ou superior
 Versão 1.0 (em testes)
 
-No Hopsie as tuas apps não ficam paradas. Cada uma tem um corpo de acordo com o que faz, com olhos, braços com luvas e o seu ícone verdadeiro na barriga.
-Quando chega uma mensagem, a personagem dá um salto e diz-te quem escreveu. Se a ignorares, insiste; depois cruza os braços e acaba sentada, resignada, até abrires a app. À noite adormecem, e a que tem uma notificação acorda para te lembrar.
-Conversam na sua língua de assobios ou com voz real. Nos telemóveis com Gemini Nano usam a IA do telemóvel para resumir as notificações e sugerir respostas.
-A app não tem permissão de internet: não pode enviar nada para fora do telemóvel. O acesso às notificações é opcional e é explicado antes de ser pedido.
+No Hopsie os seus apps não ficam parados. Cada um tem um corpo de acordo com o que faz, com olhos, braços com luvas e o seu ícone verdadeiro na barriga.
+Quando chega uma mensagem, o personagem dá um pulo e diz quem escreveu. Se você ignorar, ele insiste; depois cruza os braços e acaba sentado, resignado, até você abrir o app. À noite eles dormem, e o que tem uma notificação acorda para te lembrar.
+Eles conversam na sua língua de assobios ou com voz real. Nos celulares com Gemini Nano usam a IA do próprio celular para resumir as notificações e sugerir respostas.
+O app não tem permissão de internet: não pode enviar nada para fora do celular. O acesso às notificações é opcional e é explicado antes de ser pedido.
 
 ### Recursos
 
 - Personagens com o seu ícone: Cada app recebe um corpo adequado, com o seu ícone verdadeiro.
-- Reagem às notificações: Saltam, dizem-te quem escreve e ficam impacientes.
+- Reagem às notificações: Pulam, dizem quem escreveu e ficam impacientes.
 - Falam: Assobios ou voz real, e pequenas conversas entre vizinhos.
-- Respostas sugeridas: Com a IA do telemóvel: três respostas curtas, um toque e é enviada.
-- Ecrã inicial completo: Páginas, gaveta com pesquisa, gestor de páginas e fundos de cor.
-- Sem internet: Sem permissão de rede: tudo fica no telemóvel.
+- Respostas sugeridas: Com a IA do próprio celular: três respostas curtas, um toque e é enviada.
+- Tela inicial completa: Páginas, gaveta com busca, gerenciador de páginas e fundos coloridos.
+- Sem internet: Sem permissão de rede: tudo fica no celular.
 
 ### Perguntas frequentes
 
 **O que é o Hopsie?**
-Um ecrã inicial para Android onde cada app é uma personagem que reage às suas notificações, conversa e te ajuda a responder.
+Uma tela inicial para Android onde cada app é um personagem que reage às suas notificações, conversa e te ajuda a responder.
 
 **Quanto custa e quando sai?**
-3,99 €, pago uma vez, sem subscrições nem compras na app. Antes passa por um teste fechado no Google Play: junta-te ao grupo «hopsie-testers» nos Grupos do Google e depois toca em «Quero testar».
+3,99 €, pago uma vez, sem assinaturas nem compras no app. Antes passa por um teste fechado no Google Play: entre no grupo «hopsie-testers» nos Grupos do Google e depois toque em «Quero testar».
 
-**Precisa de internet ou recolhe dados?**
-Não. A app não tem permissão de internet, nem anúncios, nem estatísticas.
+**Precisa de internet ou coleta dados?**
+Não. O app não tem permissão de internet, nem anúncios, nem estatísticas.
 
-**A IA funciona no meu telemóvel?**
-Só nos telemóveis com Gemini Nano (por exemplo Galaxy S25 ou Pixel 10). Nos outros, o Hopsie funciona igual, sem essas funções.
+**A IA funciona no meu celular?**
+Só nos celulares com Gemini Nano (por exemplo Galaxy S25 ou Pixel 10). Nos outros, o Hopsie funciona igual, sem essas funções.
 
-**Em que língua falam as personagens?**
-Por agora em espanhol; outras línguas estão a caminho.
+**Em que idioma os personagens falam?**
+Por enquanto em espanhol; outros idiomas estão a caminho.
 
-**E se a app falhar?**
-Se o Hopsie fechar duas vezes seguidas, arranca em modo de segurança: volta ao último ecrã inicial que funcionava, sem animações, e com um toque voltas ao modo normal.
+**E se o app falhar?**
+Se o Hopsie fechar duas vezes seguidas, ele abre em modo de segurança: volta à última tela inicial que funcionava, sem animações, e com um toque você volta ao modo normal.
 

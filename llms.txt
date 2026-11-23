@@ -7,7 +7,7 @@ Contact: aetherandroid75@gmail.com
 ## Apps
 
 - [Aether Tiles](https://vivapane.com/aether-tiles/): Aether Tiles is a free Android home screen (launcher) that replaces icons with a grid of live tiles: clock, calendar, battery, weather, music and notifications, with no ads and no tracking. Status: Closed testing on Google Play.
-- [Hopsie](https://vivapane.com/hopsie/): Hopsie is an Android home screen where every app is a character with eyes, arms and its usual icon. They react to your notifications, chat with each other and, on phones with built-in AI, suggest replies. No internet, no ads, no analytics. Status: Coming soon to Google Play.
+- [Hopsie](https://vivapane.com/hopsie/): Hopsie is a home screen (launcher) for Android where every app is a character with eyes, arms and its usual icon. They react to your notifications, chat with each other and, on phones with built-in AI, suggest replies using the phone's own AI, offline. No ads and no analytics. Status: Coming soon to Google Play.
 
 ## Privacy
 

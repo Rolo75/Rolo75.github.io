@@ -201,3 +201,37 @@ details p { color: var(--suave); margin: 10px 0 0; }
 .proxima-capturas { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 6px; justify-content: flex-start; }
 .proxima-capturas img { flex: 0 0 150px; width: 150px; height: auto; border-radius: 16px; border: 1px solid var(--linea); scroll-snap-align: start; }
 @media (max-width: 760px) { .tarjeta.proxima { grid-template-columns: 1fr; } }
+
+/* Revisión de usabilidad (23 nov 2026) */
+/* Estados distinguibles de un vistazo: punto de color + color de etiqueta (verde = se puede probar, ámbar = muy pronto, violeta = en camino). */
+.etiqueta.viva::before, .etiqueta.obra::before, .etiqueta.futura::before { content: ""; display: inline-block; width: 8px; height: 8px;
+  border-radius: 50%; margin-right: 7px; vertical-align: 1px; background: currentColor; }
+.etiqueta.viva { background: rgba(127, 227, 168, .08); }
+.etiqueta.obra { background: rgba(255, 190, 92, .08); }
+.etiqueta.futura { color: #b9adff; border-color: #3d3566; background: rgba(185, 173, 255, .07); }
+.etiqueta.futura::before { background: transparent; border: 2px solid currentColor; width: 5px; height: 5px; }
+
+/* Portada: rótulo de la tira de imágenes */
+figure.collage { margin: 0; }
+.collage figcaption { margin-top: 26px; text-align: center; color: var(--suave); font-size: .88rem; max-width: 30ch; margin-left: auto; margin-right: auto; }
+
+/* Páginas de app: migas de pan, pasos para entrar en la prueba y «antes de instalar» */
+.migas { padding-top: 22px; font-size: .9rem; color: var(--suave); }
+.migas a { color: var(--suave); }
+.migas span[aria-current] { color: var(--texto); }
+.app-cabeza { padding-top: 26px; }
+.junto-boton { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 18px; margin: 0 0 30px; }
+.pasos, .antes { background: var(--fondo-2); border: 1px solid var(--linea); border-radius: var(--radio); padding: 20px 24px; }
+.pasos h2, .antes h2 { font-size: 1.15rem; margin: 0 0 10px; letter-spacing: -.01em; }
+.pasos ol { margin: 0 0 12px; padding-left: 1.3em; }
+.pasos li { margin: 6px 0; }
+.si-falla { margin: 0; font-size: .92rem; color: var(--suave); border-top: 1px solid var(--linea); padding-top: 12px; }
+.antes dl { margin: 0; }
+.antes dt { font-weight: 650; margin-top: 10px; }
+.antes dt:first-child { margin-top: 0; }
+.antes dd { margin: 2px 0 0; color: var(--suave); }
+/* Los personajes del collage sobresalen a propósito: que no creen desplazamiento lateral en pantallas estrechas. */
+body { overflow-x: clip; }
+/* El personaje de abajo queda por encima del rótulo, no encima de él. */
+.collage .b3 { bottom: 90px; }
+.collage figcaption { margin-top: 34px; }
