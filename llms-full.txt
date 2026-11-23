@@ -76,7 +76,7 @@ The app has no internet permission: it can't send anything off your phone. Notif
 An Android home screen where every app is a character that reacts to its notifications, chats and helps you reply.
 
 **How much is it and when is it out?**
-€3.99, paid once, no subscriptions or in-app purchases. It goes through a closed test on Google Play first; if you'd like to try it for free, write to us.
+€3.99, paid once, no subscriptions or in-app purchases. It goes through a closed test on Google Play first: join the “hopsie-testers” group on Google Groups, then tap “I want to try it”.
 
 **Does it need internet or collect data?**
 No. The app has no internet permission, no ads and no analytics.

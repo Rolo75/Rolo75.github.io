@@ -76,7 +76,7 @@ L'app non ha il permesso di internet: non può inviare nulla fuori dal telefono.
 Una schermata home per Android dove ogni app è un personaggio che reagisce alle sue notifiche, chiacchiera e ti aiuta a rispondere.
 
 **Quanto costa e quando esce?**
-3,99 €, una sola volta, senza abbonamenti né acquisti in-app. Prima passa da un test chiuso su Google Play; se vuoi provarla gratis, scrivici.
+3,99 €, una sola volta, senza abbonamenti né acquisti in-app. Prima passa da un test chiuso su Google Play: unisciti al gruppo «hopsie-testers» su Google Gruppi e poi tocca «Voglio provarla».
 
 **Ha bisogno di internet o raccoglie dati?**
 No. L'app non ha il permesso di internet, né pubblicità, né statistiche.

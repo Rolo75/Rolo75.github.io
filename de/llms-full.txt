@@ -76,7 +76,7 @@ Die App hat keine Internetberechtigung: Sie kann nichts von deinem Handy senden.
 Ein Android-Startbildschirm, auf dem jede App eine Figur ist, die auf ihre Nachrichten reagiert, plaudert und beim Antworten hilft.
 
 **Was kostet es und wann erscheint es?**
-3,99 €, einmalig, ohne Abo oder In-App-Käufe. Vorher gibt es einen geschlossenen Test bei Google Play; wenn du kostenlos testen möchtest, schreib uns.
+3,99 €, einmalig, ohne Abo oder In-App-Käufe. Vorher gibt es einen geschlossenen Test bei Google Play; tritt zum Testen der Gruppe „hopsie-testers“ in Google Groups bei und tippe dann auf „Ich will sie testen“.
 
 **Braucht es Internet oder sammelt es Daten?**
 Nein. Die App hat keine Internetberechtigung, keine Werbung und keine Analysen.

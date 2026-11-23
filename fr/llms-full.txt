@@ -76,7 +76,7 @@ L'appli n'a pas l'autorisation internet : elle ne peut rien envoyer hors du tél
 Un écran d'accueil Android où chaque appli est un personnage qui réagit à ses notifications, bavarde et t'aide à répondre.
 
 **Combien ça coûte et quand sort-il ?**
-3,99 €, en une fois, sans abonnement ni achats intégrés. Il passe d'abord par un test fermé sur Google Play ; si tu veux l'essayer gratuitement, écris-nous.
+3,99 €, en une fois, sans abonnement ni achats intégrés. Il passe d'abord par un test fermé sur Google Play : rejoins le groupe « hopsie-testers » sur Google Groups, puis touche « Je veux l'essayer ».
 
 **A-t-il besoin d'internet ou collecte-t-il des données ?**
 Non. L'appli n'a ni autorisation internet, ni publicité, ni statistiques.

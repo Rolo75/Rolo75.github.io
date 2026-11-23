@@ -133,3 +133,62 @@ details p { color: var(--suave); margin: 10px 0 0; }
   .idiomas { margin-left: auto; }
   .menu { order: 3; width: 100%; margin-left: 0; gap: 18px; }
 }
+
+/* Logo de cristal líquido junto a la marca: manchas de color que se mueven bajo un vidrio esmerilado. */
+.marca { display: inline-flex; align-items: center; gap: 10px; }
+.logo-vidrio { position: relative; width: 30px; height: 30px; border-radius: 9px; overflow: hidden; background: #171a2a;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,.28), inset 0 1px 0 rgba(255,255,255,.5); flex: 0 0 auto; }
+.logo-vidrio i { position: absolute; width: 22px; height: 22px; border-radius: 50%; filter: blur(5px); }
+.logo-vidrio i:nth-child(1) { background: #7f77dd; left: -4px; top: -4px; animation: mancha-a 7s ease-in-out infinite; }
+.logo-vidrio i:nth-child(2) { background: #1d9e75; right: -5px; bottom: -5px; animation: mancha-b 9s ease-in-out infinite; }
+.logo-vidrio i:nth-child(3) { background: #d4537e; left: 6px; bottom: -8px; width: 16px; height: 16px; animation: mancha-a 11s ease-in-out infinite reverse; }
+.logo-vidrio b { position: absolute; inset: 0; display: grid; place-items: center; font-size: 17px; font-weight: 800;
+  color: rgba(255,255,255,.95); text-shadow: 0 1px 6px rgba(20,10,60,.6); backdrop-filter: blur(1px); }
+.logo-vidrio::after { content: ""; position: absolute; top: -20%; left: 0; width: 35%; height: 140%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,.45), transparent); animation: brillo 6s ease-in-out infinite; }
+@keyframes mancha-a { 0%,100% { transform: translate(0,0) scale(1) } 50% { transform: translate(10px,8px) scale(1.2) } }
+@keyframes mancha-b { 0%,100% { transform: translate(0,0) scale(1.1) } 50% { transform: translate(-10px,-8px) scale(.85) } }
+@keyframes brillo { 0% { transform: translateX(-160%) rotate(20deg) } 55%,100% { transform: translateX(320%) rotate(20deg) } }
+
+/* Sección jugable de la portada */
+.juego { margin-bottom: 40px; }
+.juego-texto { color: var(--suave); max-width: 60ch; margin: 0 0 22px; }
+.juego-rejilla { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, .8fr); gap: 22px; align-items: stretch; }
+.mini-aether { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-auto-rows: 118px; gap: 8px;
+  background: #05060a; border: 1px solid var(--linea); border-radius: var(--radio); padding: 14px; }
+.mosaico { position: relative; border: 0; padding: 0; margin: 0; background: none; color: #fff; font: inherit; cursor: pointer;
+  perspective: 700px; border-radius: 6px; transition: transform .5s cubic-bezier(.34,1.8,.5,1); }
+.mosaico:active { transform: scale(.9); transition: transform .1s ease-out; }
+.mosaico:focus-visible { outline: 2px solid var(--acento); outline-offset: 3px; }
+.mosaico .cara { position: absolute; inset: 0; border-radius: 6px; padding: 12px; display: flex; flex-direction: column;
+  justify-content: space-between; text-align: left; backface-visibility: hidden; -webkit-backface-visibility: hidden;
+  background: var(--c); transition: transform .7s cubic-bezier(.34,1.45,.5,1); font-size: .9rem; font-weight: 600; }
+.mosaico .dorso { transform: rotateX(180deg); filter: brightness(.78); }
+.mosaico.girado .frente { transform: rotateX(-180deg); }
+.mosaico.girado .dorso { transform: rotateX(0); }
+.mosaico svg { width: 34px; height: 34px; fill: none; stroke: #fff; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+.dorso-texto { font-size: 1.05rem; font-weight: 500; line-height: 1.3; }
+.mosaico.reloj { grid-column: span 2; background: rgba(255,255,255,.07); padding: 14px; display: flex; flex-direction: column;
+  justify-content: flex-end; cursor: default; }
+.reloj .hora { font-size: 2.6rem; font-weight: 300; line-height: 1; letter-spacing: -.02em; }
+.reloj .fecha { color: var(--suave); font-size: .95rem; margin-top: 6px; }
+.reloj .fecha::first-letter { text-transform: uppercase; }
+.mini-hopsie { position: relative; background: #f4f1ea; border-radius: var(--radio); display: flex; flex-direction: column;
+  align-items: center; justify-content: center; gap: 12px; padding: 26px 16px; min-height: 280px; overflow: hidden; }
+.bicho-juego { border: 0; background: none; padding: 0; cursor: pointer; transition: transform .25s ease-out; border-radius: 30px; }
+.bicho-juego img { width: 150px; height: 150px; }
+.bicho-juego:focus-visible { outline: 2px solid #534ab7; outline-offset: 4px; }
+.bicho-juego.tropieza { animation: tropiezo .9s cubic-bezier(.34,1.56,.64,1); }
+@keyframes tropiezo { 0% { transform: translateY(0) rotate(0) } 30% { transform: translateY(-28px) rotate(-16deg) }
+  55% { transform: translateY(6px) rotate(12deg) } 75% { transform: translateY(-8px) rotate(-5deg) } 100% { transform: translateY(0) rotate(0) } }
+.bocadillo { position: absolute; top: 22px; right: 20px; background: #fff; color: #633806; font-weight: 800; padding: 8px 14px;
+  border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,.12); opacity: 0; transform: scale(.4); transition: opacity .2s, transform .35s cubic-bezier(.34,1.8,.5,1); }
+.bocadillo.visible { opacity: 1; transform: scale(1); }
+.juego-pista { color: #5f5e5a; font-size: .9rem; font-weight: 600; }
+@media (max-width: 760px) { .juego-rejilla { grid-template-columns: 1fr; } .mini-hopsie { min-height: 240px; } }
+@media (prefers-reduced-motion: reduce) {
+  .logo-vidrio i, .logo-vidrio::after, .bicho-juego.tropieza { animation: none; }
+  .mosaico .cara { transition: none; }
+}
+.tarjeta.proxima { border-style: dashed; }
+.tarjeta.proxima:hover { transform: none; border-color: var(--linea); }

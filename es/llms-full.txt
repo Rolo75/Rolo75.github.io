@@ -76,7 +76,7 @@ La app no tiene permiso de internet: no puede enviar nada fuera del móvil. El a
 Una pantalla de inicio para Android en la que cada app es un personaje que reacciona a sus avisos, charla y te ayuda a contestar.
 
 **¿Cuánto cuesta y cuándo sale?**
-3,99 €, un solo pago, sin suscripciones ni compras dentro. Antes pasa por una prueba cerrada en Google Play; si quieres probarla gratis, escríbenos.
+3,99 €, un solo pago, sin suscripciones ni compras dentro. Antes pasa por una prueba cerrada en Google Play: únete al grupo de testers «hopsie-testers» en Grupos de Google y luego pulsa «Quiero probarla».
 
 **¿Necesita internet o recoge datos?**
 No. La app no tiene permiso de internet, ni anuncios, ni analíticas.

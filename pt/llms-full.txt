@@ -76,7 +76,7 @@ A app não tem permissão de internet: não pode enviar nada para fora do telem�
 Um ecrã inicial para Android onde cada app é uma personagem que reage às suas notificações, conversa e te ajuda a responder.
 
 **Quanto custa e quando sai?**
-3,99 €, pago uma vez, sem subscrições nem compras na app. Antes passa por um teste fechado no Google Play; se quiseres experimentar gratuitamente, escreve-nos.
+3,99 €, pago uma vez, sem subscrições nem compras na app. Antes passa por um teste fechado no Google Play: junta-te ao grupo «hopsie-testers» nos Grupos do Google e depois toca em «Quero testar».
 
 **Precisa de internet ou recolhe dados?**
 Não. A app não tem permissão de internet, nem anúncios, nem estatísticas.
