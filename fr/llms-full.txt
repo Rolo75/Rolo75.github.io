@@ -8,7 +8,7 @@ URL: https://vivapane.com/fr/aether-tiles/
 Statut: Test fermé sur Google Play
 Prix: Gratuit, sans pub
 Configuration requise: Android 10 ou plus récent
-Version 1.3.0
+Version 1.4.1
 
 Aether Tiles remplace l'écran d'accueil de votre Android par une grille de tuiles. Chaque tuile affiche des infos en direct : l'heure avec le cadran de votre choix, votre prochain rendez-vous, le niveau de batterie, la météo de votre ville ou le morceau en cours, avec des boutons pour le mettre en pause.
 Les tuiles ont un aspect verre posé sur votre fond d'écran, et un fin trait de lumière fait lentement le tour de leurs bords. Cette lumière sert aussi à vous prévenir : verte pendant la charge, rouge quand la batterie est faible, et ambrée autour d'une appli qui a des messages non lus.
