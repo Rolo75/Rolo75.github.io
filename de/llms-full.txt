@@ -1,0 +1,92 @@
+# Vivapane
+
+Ein unabhängiges Studio für Android-Apps. Wir bauen Startbildschirme, die anders sind: Aether Tiles mit Live-Kacheln und Hopsie, bei dem deine Icons kleine Figuren sind. Keine Werbung, kein Tracking, und deine Daten bleiben auf deinem Handy.
+
+## Aether Tiles
+
+URL: https://vivapane.com/de/aether-tiles/
+Status: Geschlossener Test bei Google Play
+Preis: Kostenlos, ohne Werbung
+Voraussetzungen: Android 10 oder neuer
+Version 1.5
+
+Aether Tiles ersetzt den Startbildschirm deines Android-Handys durch ein Raster aus Kacheln. Jede Kachel zeigt Live-Informationen: die Uhrzeit mit dem Zifferblatt deiner Wahl, deinen nächsten Termin, den Akkustand, das Wetter in deiner Stadt oder den Song, der gerade läuft, mit Tasten zum Pausieren.
+Die Kacheln liegen wie Glas über deinem Hintergrund, und ein feiner Lichtstreifen wandert langsam um ihre Ränder. Das Licht hat auch eine Bedeutung: Beim Laden wird es grün, bei schwachem Akku rot, und um Apps mit ungelesenen Nachrichten kreist es bernsteinfarben.
+Alles wird auf deinem Handy gespeichert. Es gibt keine eigenen Server, keine Werbung und keine Analyse. Ins Internet geht die App nur für das, was du einschaltest: das Wetter für die gewählte Stadt und Nachrichten-Kacheln.
+
+### Funktionen
+
+- Leihmodus: Du gibst jemandem dein Handy, und die Person sieht nur die Apps, die du auswählst. Zum Beenden braucht es deine PIN.
+- Benachrichtigungsfeld: Auf dem Startbildschirm nach unten wischen: Benachrichtigungen nach App gruppiert, Musik und Schnelleinstellungen.
+- Live-Kacheln: Uhr mit elf Zifferblättern, Kalender, Akku, Wetter, Musik, Notizen und Nachrichten.
+- Personen als Kacheln: Pinne deine Lieblingsmenschen an: ein Tipp, und ihre Nummer ist bereit zum Anrufen.
+- Ganz nach deinem Geschmack: Vier Größen, dazu Farbe, Material, Deckkraft, Ecken und ein Hintergrundfoto für jede Kachel.
+- Widgets und Ordner: Pack Widgets deiner Apps in eine Kachel und gruppiere Apps in Ordnern.
+- Privatsphäremodus: Die Kacheln zeigen, wie viele Benachrichtigungen du hast, aber nicht, wer schreibt oder was du hörst.
+- Sicherung: Speichere deinen Startbildschirm in einer Datei und stelle ihn auf einem anderen Handy wieder her.
+
+### Häufige Fragen
+
+**Was ist Aether Tiles?**
+Ein Android-Startbildschirm, der deine Apps als Kacheln mit Live-Informationen zeigt (Uhrzeit, Termine, Akku, Wetter, Musik und Benachrichtigungen) statt als starre Icons.
+
+**Ist die App kostenlos? Gibt es Werbung?**
+Sie ist kostenlos, ohne Werbung und ohne Analyse.
+
+**Sammelt die App meine Daten?**
+Nein. Alles wird auf dem Handy gespeichert. Ins Internet geht sie nur für das Wetter in der Stadt, die du wählst, und für Nachrichten-Kacheln, die du hinzufügst.
+
+**Was ist der Leihmodus?**
+Eine Möglichkeit, jemand anderem dein Handy zu geben: Die Person kann nur die Apps öffnen, die du auswählst, und zum Beenden braucht es deine PIN. Es ist keine Kindersicherung.
+
+**Welche Berechtigungen braucht die App?**
+Alle sind optional: Benachrichtigungen (Zähler, Licht und Feld), Kalender (nächster Termin) und Nutzungszugriff (nur für den Leihmodus). Ohne sie funktioniert sie als ganz normaler Kachel-Startbildschirm.
+
+**Wie komme ich zu meinem gewohnten Startbildschirm zurück?**
+Mit einem Tipp in den Einstellungen von Aether Tiles oder in den Android-Einstellungen unter Standard-Apps.
+
+**Wie kann ich sie testen?**
+Sie ist im geschlossenen Test bei Google Play. Folge den Schritten neben dem Button „Ich will sie testen“: Erst trittst du der Gruppe „aether-tiles-testers“ in Google Groups bei, dann bestätigst du den Test bei Play.
+
+## Hopsie
+
+URL: https://vivapane.com/de/hopsie/
+Status: Bald bei Google Play
+Preis: 3,99 € (einmalig, kein Abo)
+Voraussetzungen: Android 8 oder neuer
+Version 1.0 (im Test)
+
+Bei Hopsie bleiben deine Apps nicht still. Jede bekommt einen Körper, der zu ihr passt, mit Augen, Armen mit Handschuhen und ihrem echten Symbol auf dem Bauch.
+Kommt eine Nachricht, hüpft die Figur hoch und sagt dir, wer geschrieben hat. Ignorierst du sie, wird sie hartnäckig, verschränkt irgendwann die Arme und setzt sich resigniert hin, bis du die App öffnest. Nachts schlafen sie, und wer eine Nachricht hat, wacht auf, um dich zu erinnern.
+Sie plaudern in ihrer eigenen Pfeifsprache oder mit echter Stimme. Auf Handys mit Gemini Nano nutzen sie die KI des Handys, um Benachrichtigungen zusammenzufassen und Antworten vorzuschlagen.
+Die App hat keine Internetberechtigung: Sie kann nichts von deinem Handy senden. Der Zugriff auf Benachrichtigungen ist optional und wird vorher erklärt.
+
+### Funktionen
+
+- Figuren mit ihrem Symbol: Jede App bekommt einen passenden Körper mit ihrem echten Symbol.
+- Reagieren auf Nachrichten: Sie hüpfen, sagen dir, wer schreibt, und werden ungeduldig.
+- Sie reden: Pfeifen oder echte Stimme und kleine Gespräche unter Nachbarn.
+- Antwortvorschläge: Mit der KI des Handys: drei kurze Antworten, antippen und gesendet.
+- Kompletter Startbildschirm: Seiten, App-Übersicht mit Suche, Seitenverwaltung und Farbhintergründe.
+- Ohne Internet: Keine Netzwerkberechtigung: Alles bleibt auf dem Handy.
+
+### Häufige Fragen
+
+**Was ist Hopsie?**
+Ein Android-Startbildschirm, auf dem jede App eine Figur ist, die auf ihre Nachrichten reagiert, plaudert und beim Antworten hilft.
+
+**Was kostet es und wann erscheint es?**
+3,99 €, einmalig, ohne Abo oder In-App-Käufe. Vorher gibt es einen geschlossenen Test bei Google Play; tritt zum Testen der Gruppe „hopsie-testers“ in Google Groups bei und tippe dann auf „Ich will sie testen“.
+
+**Braucht es Internet oder sammelt es Daten?**
+Nein. Die App hat keine Internetberechtigung, keine Werbung und keine Analysen.
+
+**Funktioniert die KI auf meinem Handy?**
+Nur auf Handys mit Gemini Nano (zum Beispiel Galaxy S25 oder Pixel 10). Sonst funktioniert Hopsie genauso, nur ohne diese Funktionen.
+
+**Welche Sprache sprechen die Figuren?**
+Ihre Sätze sind vorerst auf Spanisch; weitere Sprachen folgen.
+
+**Und wenn die App abstürzt?**
+Wenn Hopsie zweimal hintereinander abstürzt, startet sie im abgesicherten Modus: Sie kehrt zu deinem letzten funktionierenden Startbildschirm zurück, ohne Animationen, und mit einem Tipp bist du wieder im normalen Modus.
+

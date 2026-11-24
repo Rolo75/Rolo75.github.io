@@ -1,0 +1,92 @@
+# Vivapane
+
+Estudio independiente de apps para Android. Hacemos pantallas de inicio distintas: Aether Tiles, de mosaicos vivos, y Hopsie, donde los iconos son personajes. Sin anuncios, sin rastreo y con tus datos en tu móvil.
+
+## Aether Tiles
+
+URL: https://vivapane.com/es/aether-tiles/
+Estado: Prueba cerrada en Google Play
+Precio: Gratis, sin anuncios
+Requisitos: Android 10 o superior
+Versión 1.5
+
+Aether Tiles sustituye la pantalla de inicio de tu Android por una cuadrícula de mosaicos. Cada mosaico enseña información en directo: la hora con la esfera que elijas, tu próxima cita, cuánta batería queda, el tiempo de tu ciudad o la canción que suena, con botones para pausarla.
+Los mosaicos tienen un acabado de cristal sobre tu fondo y un borde de luz que los recorre despacio. Esa luz también avisa: se pone verde mientras cargas, roja con poca batería y gira en ámbar sobre la app que tiene mensajes sin leer.
+Todo se guarda en tu móvil. No hay servidores propios, ni publicidad, ni analíticas. Solo se conecta a internet para lo que tú activas: el tiempo de la ciudad que eliges y los mosaicos de noticias.
+
+### Funciones
+
+- Modo prestar: Dejas el móvil a alguien y solo ve las apps que tú elijas. Para salir hace falta tu PIN.
+- Panel de avisos: Desliza hacia abajo en Inicio: notificaciones agrupadas por app, música y ajustes rápidos.
+- Mosaicos vivos: Reloj con once esferas, calendario, batería, tiempo, música, notas y noticias.
+- Personas como mosaicos: Fija a tus favoritos: un toque y tienes su número listo para llamar.
+- A tu gusto: Cuatro tamaños, color, material, opacidad, esquinas y foto de fondo por mosaico.
+- Widgets y carpetas: Mete widgets de tus apps dentro de un mosaico y agrupa apps en carpetas.
+- Modo privacidad: Los mosaicos muestran cuántos avisos tienes, pero no quién te escribe ni qué escuchas.
+- Copia de seguridad: Guarda tu pantalla de inicio en un archivo y restáurala en otro móvil.
+
+### Preguntas frecuentes
+
+**¿Qué es Aether Tiles?**
+Una pantalla de inicio para Android que muestra tus apps como mosaicos con información en directo (hora, citas, batería, tiempo, música y avisos) en lugar de iconos fijos.
+
+**¿Es gratis? ¿Tiene anuncios?**
+Es gratis y no tiene anuncios ni analíticas.
+
+**¿Recoge mis datos?**
+No. Todo se guarda en el móvil. Solo se conecta a internet para el tiempo de la ciudad que elijas y los mosaicos de noticias que añadas.
+
+**¿Qué es el modo prestar?**
+Una forma de dejar el móvil a otra persona: solo podrá abrir las apps que elijas y para salir hace falta tu PIN. No es un control parental.
+
+**¿Qué permisos pide?**
+Todos son opcionales: notificaciones (contadores, luz y panel), calendario (próxima cita) y acceso a uso (solo para el modo prestar). Sin ellos funciona como una pantalla de inicio de mosaicos normal.
+
+**¿Cómo vuelvo a mi pantalla de inicio de siempre?**
+Desde los ajustes de Aether Tiles, con un toque, o en Ajustes de Android, Apps predeterminadas.
+
+**¿Cómo puedo probarla?**
+Está en prueba cerrada en Google Play. Sigue los pasos que hay junto al botón «Quiero probarla»: primero te unes al grupo de testers «aether-tiles-testers» en Grupos de Google y después aceptas la prueba en Play.
+
+## Hopsie
+
+URL: https://vivapane.com/es/hopsie/
+Estado: Muy pronto en Google Play
+Precio: 3,99 € (pago único, sin suscripción)
+Requisitos: Android 8 o superior
+Versión 1.0 (en pruebas)
+
+En Hopsie las apps no están quietas. Cada una tiene un cuerpo según lo que hace, con ojos, brazos con guantes y su icono real en la barriga.
+Cuando te llega un mensaje, su personaje pega un brinco y te dice quién escribe. Si no le haces caso, insiste; si sigues sin mirarlo, se cruza de brazos y acaba sentado, resignado, hasta que abres la app. Por la noche se duermen, y el que tiene un aviso se despierta para recordártelo.
+Charlan entre ellos en su idioma de silbidos o con voz real, con carácter adulto o adolescente. En móviles con Gemini Nano usan la IA del propio móvil para resumirte los avisos y proponerte respuestas.
+La app no tiene permiso de internet: no puede enviar nada fuera del móvil. El acceso a las notificaciones es opcional y se explica antes de pedirlo.
+
+### Funciones
+
+- Personajes con su icono: Cada app recibe un cuerpo según su tipo, con su icono real encima.
+- Reaccionan a tus avisos: Brincan, te dicen quién escribe y se impacientan si no miras.
+- Te hablan: Silbidos o voz real, carácter adulto o adolescente, y charlas entre vecinos.
+- Respuestas sugeridas: Con la IA del móvil: tres respuestas cortas; tocas una y se envía.
+- Pantalla de inicio completa: Páginas, cajón con búsqueda, gestor de pantallas y fondos de color.
+- Sin internet: No tiene permiso de red: todo se queda en el móvil.
+
+### Preguntas frecuentes
+
+**¿Qué es Hopsie?**
+Una pantalla de inicio para Android en la que cada app es un personaje que reacciona a sus avisos, charla y te ayuda a contestar.
+
+**¿Cuánto cuesta y cuándo sale?**
+3,99 €, un solo pago, sin suscripciones ni compras dentro. Antes pasa por una prueba cerrada en Google Play: únete al grupo de testers «hopsie-testers» en Grupos de Google y luego pulsa «Quiero probarla».
+
+**¿Necesita internet o recoge datos?**
+No. La app no tiene permiso de internet, ni anuncios, ni analíticas.
+
+**¿Las funciones de IA funcionan en mi móvil?**
+Solo en móviles con Gemini Nano (por ejemplo, Galaxy S25 o Pixel 10). En el resto, Hopsie funciona igual, sin esas funciones.
+
+**¿Gasta mucha batería?**
+En reposo las animaciones van a pocos fotogramas por segundo y se paran del todo con la pantalla apagada o mientras usas otra app.
+
+**¿Y si la app falla?**
+Si Hopsie se cierra dos veces seguidas, arranca en modo seguro: vuelve a tu última pantalla de inicio que funcionaba, sin animaciones, y vuelves al modo normal con un toque.
+
