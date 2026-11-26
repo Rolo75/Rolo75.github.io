@@ -8,7 +8,7 @@ URL: https://vivapane.com/pt/aether-tiles/
 Status: Teste fechado no Google Play
 Preço: Grátis, sem anúncios
 Requisitos: Android 10 ou superior
-Versão 1.5
+Versão 1.5.3
 
 O Aether Tiles substitui a tela inicial do seu Android por uma grade de blocos. Cada bloco mostra informações ao vivo: a hora com o mostrador que você escolher, seu próximo compromisso, quanto resta de bateria, o clima da sua cidade ou a música que está tocando, com botões para pausar.
 Os blocos têm um acabamento de vidro sobre o seu papel de parede e uma linha fina de luz que percorre devagar as bordas. Essa luz também avisa: fica verde enquanto carrega, vermelha com pouca bateria e gira em âmbar no app que tem mensagens não lidas.
@@ -51,10 +51,10 @@ Está em teste fechado no Google Play. Siga os passos ao lado do botão «Quero 
 ## Hopsie
 
 URL: https://vivapane.com/pt/hopsie/
-Status: Em breve no Google Play
-Preço: 3,99 € (pagamento único, sem assinatura)
+Status: Teste fechado no Google Play
+Preço: 3,99 € (pagamento único). Grátis para testadores até 28 de novembro.
 Requisitos: Android 8 ou superior
-Versão 1.0 (em testes)
+Versão 1.0.2
 
 No Hopsie os seus apps não ficam parados. Cada um tem um corpo de acordo com o que faz, com olhos, braços com luvas e o seu ícone verdadeiro na barriga.
 Quando chega uma mensagem, o personagem dá um pulo e diz quem escreveu. Se você ignorar, ele insiste; depois cruza os braços e acaba sentado, resignado, até você abrir o app. À noite eles dormem, e o que tem uma notificação acorda para te lembrar.

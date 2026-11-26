@@ -8,7 +8,7 @@ URL: https://vivapane.com/it/aether-tiles/
 Stato: Test chiuso su Google Play
 Prezzo: Gratis, senza pubblicità
 Requisiti: Android 10 o successivo
-Versione 1.5
+Versione 1.5.3
 
 Aether Tiles sostituisce la schermata home del tuo Android con una griglia di riquadri. Ogni riquadro mostra informazioni in tempo reale: l'ora con il quadrante che preferisci, il prossimo appuntamento, quanta batteria resta, il meteo della tua città o la canzone in riproduzione, con i tasti per metterla in pausa.
 I riquadri hanno un effetto vetro sopra lo sfondo e una sottile linea di luce che ne percorre lentamente i bordi. Quella luce ti avvisa anche: diventa verde mentre carichi, rossa con la batteria scarica e gira color ambra attorno all'app con messaggi non letti.
@@ -51,10 +51,10 @@ Con un tocco dalle impostazioni di Aether Tiles, oppure in Impostazioni di Andro
 ## Hopsie
 
 URL: https://vivapane.com/it/hopsie/
-Stato: Presto su Google Play
-Prezzo: 3,99 € (pagamento unico, senza abbonamento)
+Stato: Test chiuso su Google Play
+Prezzo: 3,99 € (pagamento unico). Gratis per i tester fino al 28 novembre.
 Requisiti: Android 8 o successivo
-Versione 1.0 (in test)
+Versione 1.0.2
 
 Con Hopsie le tue app non stanno ferme. Ognuna ha un corpo adatto a quello che fa, con occhi, braccia con i guanti e la sua vera icona sulla pancia.
 Quando arriva un messaggio, il suo personaggio fa un salto e ti dice chi ha scritto. Se lo ignori insiste, poi incrocia le braccia e finisce seduto, rassegnato, finché non apri l'app. Di notte dormono, e quello con una notifica si sveglia per ricordartela.

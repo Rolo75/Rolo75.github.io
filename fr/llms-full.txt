@@ -8,7 +8,7 @@ URL: https://vivapane.com/fr/aether-tiles/
 Statut: Test fermé sur Google Play
 Prix: Gratuit, sans pub
 Configuration requise: Android 10 ou plus récent
-Version 1.5
+Version 1.5.3
 
 Aether Tiles remplace l'écran d'accueil de votre Android par une grille de tuiles. Chaque tuile affiche des infos en direct : l'heure avec le cadran de votre choix, votre prochain rendez-vous, le niveau de batterie, la météo de votre ville ou le morceau en cours, avec des boutons pour le mettre en pause.
 Les tuiles ont un aspect verre posé sur votre fond d'écran, et un fin trait de lumière fait lentement le tour de leurs bords. Cette lumière sert aussi à vous prévenir : verte pendant la charge, rouge quand la batterie est faible, et ambrée autour d'une appli qui a des messages non lus.
@@ -51,10 +51,10 @@ Elle est en test fermé sur Google Play. Suivez les étapes à côté du bouton 
 ## Hopsie
 
 URL: https://vivapane.com/fr/hopsie/
-Statut: Bientôt sur Google Play
-Prix: 3,99 € (paiement unique, sans abonnement)
+Statut: Test fermé sur Google Play
+Prix: 3,99 € (paiement unique). Gratuit pour les testeurs jusqu'au 28 novembre.
 Configuration requise: Android 8 ou plus récent
-Version 1.0 (en test)
+Version 1.0.2
 
 Avec Hopsie, tes applis ne restent pas immobiles. Chacune a un corps adapté à ce qu'elle fait, avec des yeux, des bras gantés et sa vraie icône sur le ventre.
 Quand un message arrive, son personnage saute et te dit qui a écrit. Si tu l'ignores, il insiste, puis croise les bras et finit assis, résigné, jusqu'à ce que tu ouvres l'appli. La nuit, ils dorment, et celui qui a une notification se réveille pour te la rappeler.

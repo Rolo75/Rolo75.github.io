@@ -8,7 +8,7 @@ URL: https://vivapane.com/aether-tiles/
 Status: Closed testing on Google Play
 Price: Free, no ads
 Requirements: Android 10 or later
-Version 1.5
+Version 1.5.3
 
 Aether Tiles replaces your Android home screen with a grid of tiles. Each tile shows live information: the time on the clock face you pick, your next appointment, how much battery is left, the weather in your city or the song that's playing, with buttons to pause it.
 The tiles have a glass finish over your wallpaper and a thin line of light that slowly travels around their edges. That light also tells you things: it turns green while charging, red when the battery is low, and spins amber around any app with unread messages.
@@ -51,10 +51,10 @@ It's in closed testing on Google Play. Follow the steps next to the “I want to
 ## Hopsie
 
 URL: https://vivapane.com/hopsie/
-Status: Coming soon to Google Play
-Price: €3.99 (one-time, no subscription)
+Status: Closed testing on Google Play
+Price: €3.99 (one-time). Free for testers until 28 November.
 Requirements: Android 8 or later
-Version 1.0 (testing)
+Version 1.0.2
 
 In Hopsie your apps don't sit still. Each one gets a body that fits what it does, with eyes, gloved arms and its real icon on its belly.
 When a message arrives, its character hops up and tells you who wrote. Ignore it and it insists; keep ignoring it and it crosses its arms and ends up sitting down, resigned, until you open the app. At night they fall asleep, and the one with a notification wakes up to remind you.

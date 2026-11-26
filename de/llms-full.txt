@@ -8,7 +8,7 @@ URL: https://vivapane.com/de/aether-tiles/
 Status: Geschlossener Test bei Google Play
 Preis: Kostenlos, ohne Werbung
 Voraussetzungen: Android 10 oder neuer
-Version 1.5
+Version 1.5.3
 
 Aether Tiles ersetzt den Startbildschirm deines Android-Handys durch ein Raster aus Kacheln. Jede Kachel zeigt Live-Informationen: die Uhrzeit mit dem Zifferblatt deiner Wahl, deinen nächsten Termin, den Akkustand, das Wetter in deiner Stadt oder den Song, der gerade läuft, mit Tasten zum Pausieren.
 Die Kacheln liegen wie Glas über deinem Hintergrund, und ein feiner Lichtstreifen wandert langsam um ihre Ränder. Das Licht hat auch eine Bedeutung: Beim Laden wird es grün, bei schwachem Akku rot, und um Apps mit ungelesenen Nachrichten kreist es bernsteinfarben.
@@ -51,10 +51,10 @@ Sie ist im geschlossenen Test bei Google Play. Folge den Schritten neben dem But
 ## Hopsie
 
 URL: https://vivapane.com/de/hopsie/
-Status: Bald bei Google Play
-Preis: 3,99 € (einmalig, kein Abo)
+Status: Geschlossener Test bei Google Play
+Preis: 3,99 € (einmalig). Für Tester bis 28. November kostenlos.
 Voraussetzungen: Android 8 oder neuer
-Version 1.0 (im Test)
+Version 1.0.2
 
 Bei Hopsie bleiben deine Apps nicht still. Jede bekommt einen Körper, der zu ihr passt, mit Augen, Armen mit Handschuhen und ihrem echten Symbol auf dem Bauch.
 Kommt eine Nachricht, hüpft die Figur hoch und sagt dir, wer geschrieben hat. Ignorierst du sie, wird sie hartnäckig, verschränkt irgendwann die Arme und setzt sich resigniert hin, bis du die App öffnest. Nachts schlafen sie, und wer eine Nachricht hat, wacht auf, um dich zu erinnern.
